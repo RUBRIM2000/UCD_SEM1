@@ -83,6 +83,9 @@ Uit de interviews blijkt dat de meeste blessures voorkomen bij recreatieve sport
 Om de loper gemotiveerd te houden is het delen en het kunnen vergelijken van activiteiten met vrienden een grote meerwaarde, al is de motivatie om een gezonde levensstijl na te streven even belangrijk. De gebruiker gaf aan dat hij voorstander is van een ‘voice coach’ om feedback te geven tijdens het lopen, al moet de frequentie ervan instelbaar zijn. 
 Zowel de gebruiker als een van de twee kinesisten gaven aan 300 tot 400 euro te willen betalen voor een product die de belasting meet inclusief de app, zolang dit compatibel is met een sporthorloge. Ook bij de interviews wordt verwezen naar de protocols[^4] [^5] en rapporten[^6] [^7].
 
+![Feasibility-Desireability canvas](https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/dabddc06-f363-4db2-87e4-13b98e4c8909)
+
+
 ### Conclusies & implicaties
 Na het gedane onderzoek kunnen verschillende conclusies getrokken worden die van belang zijn voor het project. Zo zal ons product de beste features van de concurrerende producten moeten integreren en zal de prijs rond de 300 euro moeten bedragen om competitief te zijn. De interviews en de competitor analysis onderstrepen dat het personaliseren van de feedback en de compatibiliteit met een sporthorloge een paar van dé belangrijkste eisen zijn. 
 
@@ -97,8 +100,11 @@ Voor zowel de app als het dashboard is onderzoek uitgevoerd naar de eisen en wen
 Vooraleer we begonnen met het maken van prototypes, was het essentieel om dieper in te gaan op de vraag “Wat is de oplossing”. Hiervoor zijn we teruggegaan naar de kern van de zaak: wie is de gebruiker en hoe komt deze terecht bij ons product. 
 Uit de prijs van het product en de interviews kunnen we concluderen dat sporters de sensor niet zullen dragen tenzij ze kampen met blessures. Het verhaal begint meestal met een geblesseerd persoon die bij de kinesitherapeut gaat voor revalidatie. Om ons product dus bij de gebruiker te introduceren, zullen we moeten focussen op kinesisten. Voor hen is het belangrijk dat de wearable goed werkt en dat het professioneel dashboard een meerwaarde biedt. Een ander deel van de gebruikers zal bij ons product terechtkomen via mond-tot-mondreclame, om zo toekomstige blessures te vermijden. Voor deze doelgroep is het belangrijk dat de wearable zelfstandig (zonder uitleg van een kinesitherapeut) en correct kan worden aangespannen en dat anderzijds de app gebruiksvriendelijk is.
 
+![storyboard_finaal](https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/47c9790b-1542-4155-a509-7ab265db5837)
+
+
 #### Brainstorm
-Vervolgens werd gebruikgemaakt van een brainstormsessie om alle mogelijke problemen in kaart te brengen. Hierna zijn we opzoek gegaan naar mogelijke concepten en de bijhorende design requirements. Als resultaat werd een uitgebreid brainstormdiagram bekomen dat ons een goed inzicht geeft in hoe we een oplossing kunnen bieden.
+Vervolgens werd gebruikgemaakt van een brainstormsessie om alle mogelijke problemen in kaart te brengen. Hierna zijn we opzoek gegaan naar mogelijke concepten en de bijhorende design requirements. Als resultaat werd een uitgebreid brainstormdiagram bekomen dat ons een goed inzicht geeft in hoe we een oplossing kunnen bieden. De pdf van de Miro map kan hier[^8] te zien zijn.
 
 #### Materialen 
 Om de prototypes te vervaardigen werd voornamelijk gebruikgemaakt van afvalmaterialen en 3D printing. Beide waren ruimschoots beschikbaar tijdens het prototypingproces. Omdat we voor de wearable een band dienen te ontwerpen die rond het been past, zullen textieloverschotten gebruikt worden.
@@ -108,11 +114,15 @@ Voor het prototypen van de app zullen Figma en Protopie de tools zijn waarmee we
 ### Resultaten
 #### De wearable
 Voor de wearable lag de focus, zoals eerder vermeld, op een systeem waarmee de gebruiker de scheenband op een correcte wijze aanspant. Bij een te lage spanning zal de band loskomen, bij een te hoge wordt de doorbloeding afgesneden. Niet alle scheenbenen hebben dezelfde omtrek en dus moet de band instelbaar zijn. De eenvoudigste manier om dit te bereiken is via het onderstaande systeem. 
-**FOTO**
+
+![wearable prototype](https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/a4ff886a-6532-4768-959d-54d63d991bb7)
+
 Op deze manier is de spanning echter moeilijk correct in te stellen, de gebruiker kan zonder ervaring nooit de correcte spanning instellen. Om dit te verhelpen zullen we de niet-rekbare velcro strip vervangen door een elastische band. De manier om de band aan te spannen en deze te bevestigen blijft gelijk. Door deze aanpassing zal de gebruiker minder snel fouten maken bij het aanspannen. Het wordt pas nauwkeurig wanneer we een maatstaf te hanteren. Hiervoor ontwikkelden we een nieuw concept dat werkt aan de hand van 2 indicatielijnen op de band. Over de band wordt een plaatje geschoven met 2 gleuven in. Het is de bedoeling dat men de band verder aanspant tot de 2 indicatielijnen (in het rood weergegeven) uitlijnen met de voorziene gleuven. Wanneer de lijnen niet overeenkomen met de gleuven zal de band ofwel te zacht ofwel te hard aangespannen zijn.
-**FOTO**
+
+![wearable spansysteem](https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/5ff18044-4918-4e5e-b6ae-01e86bd3b6bd)
+
 #### De app
-Met behulp van Figma en Protopie werd een eerste versie van de app ontworpen. Hierbij werd vooral gezocht naar een gebruiksvriendelijk UX/UI design. Voorlopig bestaat de app uit de volgende 5 tabbladen: Home, Rehab, Record, Challenges en Profile. Bij elk van deze tabbladen werd een voorlopige lay-out toegevoegd. In het ‘Home’ tabblad zal je de activiteiten en stories van je vrienden kunnen zien en in het ‘Rehab’ tabblad worden oefeningen weergegeven die de kinesitherapeut voorziet voor de patiënt. Vervolgens vind men in het ‘Record’ tabblad de optie om een activiteit op te nemen, hier zal de live belasting en nog enkele andere gegevens te zien zijn. In het tabblad ‘Challenges’ zal men verschillende functies te zien krijgen omtrent gamification, zoals rankings en persoonlijke records. Dit met als doel de loper gemotiveerd te houden. Tot slot is er nog het ‘Profile’ tabblad, hier zal de gebruiker zijn eigen activiteiten kunnen bestuderen. Een kleine preview van de app kan hier[^8] te zien zijn.
+Met behulp van Figma en Protopie werd een eerste versie van de app ontworpen. Hierbij werd vooral gezocht naar een gebruiksvriendelijk UX/UI design. Voorlopig bestaat de app uit de volgende 5 tabbladen: Home, Rehab, Record, Challenges en Profile. Bij elk van deze tabbladen werd een voorlopige lay-out toegevoegd. In het ‘Home’ tabblad zal je de activiteiten en stories van je vrienden kunnen zien en in het ‘Rehab’ tabblad worden oefeningen weergegeven die de kinesitherapeut voorziet voor de patiënt. Vervolgens vind men in het ‘Record’ tabblad de optie om een activiteit op te nemen, hier zal de live belasting en nog enkele andere gegevens te zien zijn. In het tabblad ‘Challenges’ zal men verschillende functies te zien krijgen omtrent gamification, zoals rankings en persoonlijke records. Dit met als doel de loper gemotiveerd te houden. Tot slot is er nog het ‘Profile’ tabblad, hier zal de gebruiker zijn eigen activiteiten kunnen bestuderen. Een kleine preview van de app kan hier[^9] te zien zijn.
 
 ### Conclusies & implicaties
 #### De wearable
@@ -168,4 +178,5 @@ Als laatste willen we verder focussen op de live feedback, een 4de key component
 [^5]: https://drive.google.com/file/d/1PUERY7WOe_0lMdr5ibPD2JiIq6wNtUD2/view?usp=drive_link
 [^6]: https://drive.google.com/file/d/1AH3_2Y1O2Cm2qCNJkhiGDWLtq_c95EFd/view?usp=drive_link
 [^7]: https://drive.google.com/file/d/17NUr8E6auOlrrevVlJ7KdzkwKCOv1vjS/view?usp=drive_link
-[^8]: https://drive.google.com/file/d/1jTKgjvxYkYNi-f5WWU74D0cT7gXYSWQz/view?usp=drive_link
+[^8]: https://drive.google.com/file/d/1b5-SRC9vry1JRoN5dqAmx1vkEeve9sD-/view?usp=drive_link
+[^9]: https://drive.google.com/file/d/1jTKgjvxYkYNi-f5WWU74D0cT7gXYSWQz/view?usp=drive_link
