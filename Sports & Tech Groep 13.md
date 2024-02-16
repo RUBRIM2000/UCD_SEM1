@@ -81,38 +81,84 @@ De resultaten van de competitor analysis zijn te zien in tabel 1. We kunnen zien
 #### 4.3.2	User en expertinterviews
 Uit de interviews blijkt dat de meeste blessures voorkomen bij recreatieve sporters van boven de 50 jaar. Deze sporters willen te snel en te veel lopen, terwijl ze dit niet meer aankunnen. De huidige behandelingsmethoden beginnen bij hands-on therapie, gevolgd door een rustige opbouw waarbij geluisterd wordt naar het lichaam. Indien er geen klachten zijn, kan de intensiteit verhoogd worden. De opvolging gebeurt bij beide kinesitherapeuten a.d.h.v. een app waar ze gepersonaliseerde oefeningen meegeven met de patiënt. Nadeel is dat er niet gecontroleerd kan worden of de oefening juist is uitgevoerd. De combinatie van subjectieve data en objectieve data (stapgrootte, links-rechts verschil, trunk sway en belasting) is het meest interessant voor de opvolging. Dit zou vooral handig zijn als deze gegevens gestructureerd (in de vorm van grafieken of dergelijke) worden weergegeven in het dashboard en gelinkt zijn aan het patiëntendossier. 
 Om de loper gemotiveerd te houden is het delen en het kunnen vergelijken van activiteiten met vrienden een grote meerwaarde, al is de motivatie om een gezonde levensstijl na te streven even belangrijk. De gebruiker gaf aan dat hij voorstander is van een ‘voice coach’ om feedback te geven tijdens het lopen, al moet de frequentie ervan instelbaar zijn. 
-Zowel de gebruiker als een van de twee kinesisten gaven aan 300 tot 400 euro te willen betalen voor een product die de belasting meet inclusief de app, zolang dit compatibel is met een sporthorloge. Ook bij de interviews wordt verwezen naar de protocols[^4][^5] en rapporten[^6][^7].
+Zowel de gebruiker als een van de twee kinesisten gaven aan 300 tot 400 euro te willen betalen voor een product die de belasting meet inclusief de app, zolang dit compatibel is met een sporthorloge. Ook bij de interviews wordt verwezen naar de protocols[^4] [^5] en rapporten[^6] [^7].
 
 ### Conclusies & implicaties
 Na het gedane onderzoek kunnen verschillende conclusies getrokken worden die van belang zijn voor het project. Zo zal ons product de beste features van de concurrerende producten moeten integreren en zal de prijs rond de 300 euro moeten bedragen om competitief te zijn. De interviews en de competitor analysis onderstrepen dat het personaliseren van de feedback en de compatibiliteit met een sporthorloge een paar van dé belangrijkste eisen zijn. 
 
 ## Definition
-Max. 1000 woorden
+
 ### Doestellingen
-Wat wilde je bereiken?
+Vervolgens gaan we opzoek naar een antwoord op de vraag “Wat is de oplossing?”. Hierbij richten we ons opnieuw op de wearable, die onmisbaar is voor een goede werking van de app. Voor de wearable zullen we gericht onderzoek doen naar methoden en concepten zodat de gebruiker telkens de band perfect kan aanspannen rond het been. Dit zal in grote mate bepalen of de sensor op zijn plaats blijft zitten of niet. Naast dit hoofddoel zullen we opzoek gaan naar hoe we de band zelf kunnen modificeren om de grip op het been nog te versterken.
+Voor zowel de app als het dashboard is onderzoek uitgevoerd naar de eisen en wensen van zowel de gebruikers als de professionelen. In deze fase zullen we prototypes maken en testen om tot een goede oplossing te komen.
+
 ### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.
+#### Storyboard
+Vooraleer we begonnen met het maken van prototypes, was het essentieel om dieper in te gaan op de vraag “Wat is de oplossing”. Hiervoor zijn we teruggegaan naar de kern van de zaak: wie is de gebruiker en hoe komt deze terecht bij ons product. 
+Uit de prijs van het product en de interviews kunnen we concluderen dat sporters de sensor niet zullen dragen tenzij ze kampen met blessures. Het verhaal begint meestal met een geblesseerd persoon die bij de kinesitherapeut gaat voor revalidatie. Om ons product dus bij de gebruiker te introduceren, zullen we moeten focussen op kinesisten. Voor hen is het belangrijk dat de wearable goed werkt en dat het professioneel dashboard een meerwaarde biedt. Een ander deel van de gebruikers zal bij ons product terechtkomen via mond-tot-mondreclame, om zo toekomstige blessures te vermijden. Voor deze doelgroep is het belangrijk dat de wearable zelfstandig (zonder uitleg van een kinesitherapeut) en correct kan worden aangespannen en dat anderzijds de app gebruiksvriendelijk is.
+
+#### Brainstorm
+Vervolgens werd gebruikgemaakt van een brainstormsessie om alle mogelijke problemen in kaart te brengen. Hierna zijn we opzoek gegaan naar mogelijke concepten en de bijhorende design requirements. Als resultaat werd een uitgebreid brainstormdiagram bekomen dat ons een goed inzicht geeft in hoe we een oplossing kunnen bieden.
+
+#### Materialen 
+Om de prototypes te vervaardigen werd voornamelijk gebruikgemaakt van afvalmaterialen en 3D printing. Beide waren ruimschoots beschikbaar tijdens het prototypingproces. Omdat we voor de wearable een band dienen te ontwerpen die rond het been past, zullen textieloverschotten gebruikt worden.
+Voor het prototypen van de app zullen Figma en Protopie de tools zijn waarmee we een zo realistisch mogelijk beeld van het concept schetsen.
+
+
 ### Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
+#### De wearable
+Voor de wearable lag de focus, zoals eerder vermeld, op een systeem waarmee de gebruiker de scheenband op een correcte wijze aanspant. Bij een te lage spanning zal de band loskomen, bij een te hoge wordt de doorbloeding afgesneden. Niet alle scheenbenen hebben dezelfde omtrek en dus moet de band instelbaar zijn. De eenvoudigste manier om dit te bereiken is via het onderstaande systeem. 
+**FOTO**
+Op deze manier is de spanning echter moeilijk correct in te stellen, de gebruiker kan zonder ervaring nooit de correcte spanning instellen. Om dit te verhelpen zullen we de niet-rekbare velcro strip vervangen door een elastische band. De manier om de band aan te spannen en deze te bevestigen blijft gelijk. Door deze aanpassing zal de gebruiker minder snel fouten maken bij het aanspannen. Het wordt pas nauwkeurig wanneer we een maatstaf te hanteren. Hiervoor ontwikkelden we een nieuw concept dat werkt aan de hand van 2 indicatielijnen op de band. Over de band wordt een plaatje geschoven met 2 gleuven in. Het is de bedoeling dat men de band verder aanspant tot de 2 indicatielijnen (in het rood weergegeven) uitlijnen met de voorziene gleuven. Wanneer de lijnen niet overeenkomen met de gleuven zal de band ofwel te zacht ofwel te hard aangespannen zijn.
+**FOTO**
+#### De app
+Met behulp van Figma en Protopie werd een eerste versie van de app ontworpen. Hierbij werd vooral gezocht naar een gebruiksvriendelijk UX/UI design. Voorlopig bestaat de app uit de volgende 5 tabbladen: Home, Rehab, Record, Challenges en Profile. Bij elk van deze tabbladen werd een voorlopige lay-out toegevoegd. In het ‘Home’ tabblad zal je de activiteiten en stories van je vrienden kunnen zien en in het ‘Rehab’ tabblad worden oefeningen weergegeven die de kinesitherapeut voorziet voor de patiënt. Vervolgens vind men in het ‘Record’ tabblad de optie om een activiteit op te nemen, hier zal de live belasting en nog enkele andere gegevens te zien zijn. In het tabblad ‘Challenges’ zal men verschillende functies te zien krijgen omtrent gamification, zoals rankings en persoonlijke records. Dit met als doel de loper gemotiveerd te houden. Tot slot is er nog het ‘Profile’ tabblad, hier zal de gebruiker zijn eigen activiteiten kunnen bestuderen. Een kleine preview van de app kan hier[^8] te zien zijn.
+
 ### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
+#### De wearable
+Na het prototypen werd dit systeem uiteraard getest. We lieten 10 respondenten de op pagina 10 afgebeelde afbeelding zien en vroegen aan de hand hiervan om de scheenband correct aan te doen en deze op te spannen. De resultaten zijn veel belovend aangezien er maar 1 van de 5 deelnemers bijkomende uitleg nodig had, alle andere deelnemers hadden voldoende aan het bekijken van de instructie afbeelding om de band correct aan te doen.
+
+#### De app
+Vanwege de beperkte functionaliteit kon de app voorlopig nog niet getest worden. Voor de opbouw van de app werd gekeken naar relevante benchmarks zoals Strava en Garmin Connect. We hebben geprobeerd de app zo vertrouwd en eenvoudig mogelijk op te bouwen, zonder afbraak te doen aan mogelijkheden. We kunnen dus vermoeden dat de UX vrij positief ervaren zal worden. Verdere uitwerking en bijkomende testen zullen hier volgend semester meer duidelijkheid over scheppen.
+
+
 
 ## Bill of materials
-- Welk
-- Materiaal
-- Heb
-- Je
-- Nu
-- Nodig
-- Voor
-- Je
-- Prototype
+Het fysiek uitwerken van prototypes zal vooral gebeuren bij de uitwerking van de wearable. Hiervoor werden volgende materialen gebruikt:
+
+- **PLA**: kunststof gebruikt voor het 3D printen van prototypes
+
+- **TPU**: elastogeen gebruikt voor het 3D pinten van prototypes
+
+- **Polyester**: een textielsoort die werd gebruikt bij het prototypen van een band.
+
+- **Nylon**: textiel dat verwerkt zit in een band voor rond het been. 
+
 
 ## Kritische reflectie
-Max. 500 woordenn
+We kijken voornamelijk met een positief gevoel terug op afgelopen semester. Na de concept pitch werden we als groep samengesteld. Hierbij bleek meteen dat we dezelfde visie hadden op waar de problemen lagen en hoe deze op te lossen. Aan de hand van een constructieve brainstorm die vooraf reeds beschreven werd konden we aan de slag met het prototypen. Bij het prototypen focuste Ruben op het maken van de wearable en Milan op het ontwerpen van de app, uiteraard gebeurde alles in onderling overleg. 
+
+Wanneer we de prototypes evalueren zijn er nog enkele opmerkingen te benoem, beginnende bij de wearable. Na het testen bleek dat het concept wel duidelijk was, maar de gebruiksvriendelijkheid was nog niet optimaal. Het plaatje dat over de band geschoven zit kon zich verplaatsen, wat het aanspannen niet eenvoudig maakte, dit probleem is intussen opgelost. Toch blijven er problemen met de gebruiksvriendelijkheid van de band. De zichtbaarheid van de indicatiestrepen is nog niet optimaal en de band spant nog niet exact op zoals we dit zouden willen. 
+
+Voor de app werden nog geen UX testen uitgevoerd, dit is iets wat volgend semester zeker op de planning staat. We konden intussen wel een realistisch beeld schetsen van hoe onze app er uit zal zien, wat op zich al een grote stap in de juiste richting is. 
+
+Met zicht op volgend semester kunnen we nu al enkele dingen op de planning zetten: het testen,  verder uitwerken en verbeteren van reeds gemaakte prototypes, het analyseren van UX testen en leren uit de verkregen feedback en tot slot verder focussen op nog vastgestelde problemen. Het doel is om volgend semester ook een app te voorzien voor de professionelen. We hadden het er eerder al over dat de focus voor het verkopen van dit product lag bij kinesitherapeuten. Een groot deel van ons vooronderzoek werd ook bij hen gevoerd. We willen een interface creëren die duidelijk maak hoe wij het dashboard voor de kinesisten zouden vormgeven.
+
+Als laatste willen we verder focussen op de live feedback, een 4de key component dat opnieuw sterk afhankelijk is van het dashboard. Ook naar dit thema werd reeds onderzoek gedaan en zijn er al concept ideeën. Prototypes maken en de concepten testen stond dit semester echter nog niet op de planning maar wordt zeker een van de doelen komend semester.
+
 
 ## Bronnen
-Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
+- Etienne, S. (2018, 22 september). Soul Run Free Pro Bio Review: A running coach in your headphones. The Verge. Geraadpleegd op 6 november 2023, van https://www.theverge.com/2018/9/22/17886692/soul-run-free-pro-bio-earbuds-review 
+- Molina, A. (2019, 15 april). Soul Electronics Run Free Pro Bio review - SoundGuys. SoundGuys. Geraadpleegd op 6 november 2023, van https://www.soundguys.com/soul-run-free-pro-bio-review-21587/ 
+- Garmin. (z.d.). Hardloopdynamieksensor | Garmin. Garmin. Geraadpleegd op 6 november 2023, van https://www.garmin.com/nl-BE/p/561205 
+- Home | ARION. (z.d.). Geraadpleegd op 6 november 2023, van https://www.arion.run/- Stryd | Run with Power | Stryd (Europe). (z.d.). Stryd (Europe). Geraadpleegd op 6 november 2023, van https://www.stryd.com/eu/en 
+- von Waldthausen, D. (2020, 22 januari). RUNVI - YOUR ADVANCED DIGITAL RUNNING COACH. Kickstarter. Geraadpleegd op 6 november 2023, van https://www.kickstarter.com/projects/runvi/runvi-the-worlds-most-advanced-digital-running-coa
+- TICKR X Chest Heart Rate Monitor. (z.d.). Wahoo Fitness. Geraadpleegd op 6 november 2023, van https://eu.wahoofitness.com/devices/heart-rate-monitors/tickr-x-buy 
+- RunScribe. (2023, 31 oktober). RunScribe - Wearable IMU - GAIT analysis. Geraadpleegd op 6 november 2023, van https://runscribe.com/ 
+- Sensoria home page. (z.d.). Geraadpleegd op 6 november 2023, van https://www.sensoriafitness.com/
+- Alger, K. (2018, 21 september). 5 of the best form-fixing gadgets to improve your running efficiency and technique. Runner’s World. Geraadpleegd op 6 november 2023, van https://www.runnersworld.com/uk/a776422/best-form-fixing-gadgets-to-improve-your-running-efficiency-and-technique/ 
+- George, L. (2019, 17 oktober). 7 running wearables that will transform the way you move. 20 Fit. Geraadpleegd op 6 november 2023, van https://shapescale.com/blog/fitness-gear/7-running-wearables-transform/ 
+
 
 ## Bijlagen
 [^1]: Uit presentatie Kristof de Mey
@@ -122,3 +168,4 @@ Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
 [^5]: https://drive.google.com/file/d/1PUERY7WOe_0lMdr5ibPD2JiIq6wNtUD2/view?usp=drive_link
 [^6]: https://drive.google.com/file/d/1AH3_2Y1O2Cm2qCNJkhiGDWLtq_c95EFd/view?usp=drive_link
 [^7]: https://drive.google.com/file/d/17NUr8E6auOlrrevVlJ7KdzkwKCOv1vjS/view?usp=drive_link
+[^8]: https://drive.google.com/file/d/1jTKgjvxYkYNi-f5WWU74D0cT7gXYSWQz/view?usp=drive_link
