@@ -16,7 +16,7 @@ Wereldwijd zijn er 110 miljoen lopers, waarvan 50 miljoen last heeft van blessur
 Wij zullen ons binnen deze designstudie focussen op het uitwerken van de wearable waarin de sensor verwerkt zit en een app voor het visualiseren van de data. Voor de wearable gaan we opzoek naar allerhande methoden waarmee de sensor aan het scheenbeen bevestigd kan worden. Daarbij is het belangrijk dat de sensor niet kan bewegen en dat we tegelijkertijd de doorbloeding van het been niet afsnijden. Voor een nauwkeurige en betrouwbare meting is het cruciaal dat de sensor correct gedragen wordt en dat de gebruiker deze dus ook zelf op een correcte manier kan aanbrengen.
 
 Voor het visualiseren van de data gaan we opzoek naar een gebruiksvriendelijke applicatie waarbij de focus ligt op het revalidatieproces enerzijds en het gemotiveerd houden van de gebruiker anderzijds. Dit laatste zullen we proberen met behulp van gamificatie zodat de gebruiker steeds een doel heeft om naar toe te werken en zichzelf kan vergelijken met andere gebruikers. Op deze manier proberen we het revalidatieproces dragelijker te maken. 
-[^1]: Uit presentatie Kristof de Mey
+
 
 ## Methdologie
 Het model dat wordt toegepast tijdens dit project is de ‘triple diamond’ van Zendesk. Dit model bestaat uit vier ontwerpfasen: discover, define, develop en deliver. In dit tussentijds rapport wordt er dieper ingegaan op de eerste twee fasen van het model, namelijk de dicovery en de definition fasen.
@@ -66,7 +66,7 @@ Er werden 3 interviews afgenomen waarvan 2 expertinterviews met een kinesitherap
 
 ### Resultaten
 #### Desktopresearch en competitor analysis
-De resultaten van de competitor analysis zijn te zien in tabel 1. We kunnen zien dat de manier van bevestiging vaak verschilt alsook de beste features van de producten. Vier van de zeven producten beschikken over real-time feedback, wat vaak gepaard gaat met het te frequent geven van feedback. Ook moeten deze producten gekoppeld worden aan een sporthorloge of een smartphone om ze te kunnen gebruiken. De prijzen zijn zeer uiteenlopend, gaande van 55 euro voor een product met basisfeatures tot 556 euro voor een product waarbij een analyse in een lab zit inbegrepen.
+De resultaten van de competitor analysis zijn te zien in tabel 1. We kunnen zien dat de manier van bevestiging vaak verschilt alsook de beste features van de producten. Vier van de zeven producten beschikken over real-time feedback, wat vaak gepaard gaat met het te frequent geven van feedback. Ook moeten deze producten gekoppeld worden aan een sporthorloge of een smartphone om ze te kunnen gebruiken. De prijzen zijn zeer uiteenlopend, gaande van 55 euro voor een product met basisfeatures tot 556 euro voor een product waarbij een analyse in een lab zit inbegrepen. Voor een meer uitgebreide benchmarkanalyse wordt verwezen naar het protocol[^2] en het rapport[^3].
 
 | ***Name***  | ***Product Type*** | ***Mounting*** | ***Best Feature*** | ***Real-time feedback*** | ***App***| ***Cons*** | ***Price (€)*** |
 | ------------- | ------------- | ----------- | ---------------- | ------------------------ | ---- | -------- | ------------- |
@@ -77,13 +77,14 @@ De resultaten van de competitor analysis zijn te zien in tabel 1. We kunnen zien
 | **Wahoo Tickr Run HRM**  | Heart Rate monitor  | Around your chest | Compatible with running apps | No | No | Very basic running analysis | 55 |
 | **Runscribe Shoe Clip** | Shoe clip full of sensors  | Clipped to your shoelaces | A lot of data | Yes | Yes | Expensive | 556 |
 | **Sensoria Socks**  | Smart socks  | On your feet | Personalizing your run (feedback,…) | Yes | Yes | Phone needed to view live data | 278 |
+
 #### 4.3.2	User en expertinterviews
 Uit de interviews blijkt dat de meeste blessures voorkomen bij recreatieve sporters van boven de 50 jaar. Deze sporters willen te snel en te veel lopen, terwijl ze dit niet meer aankunnen. De huidige behandelingsmethoden beginnen bij hands-on therapie, gevolgd door een rustige opbouw waarbij geluisterd wordt naar het lichaam. Indien er geen klachten zijn, kan de intensiteit verhoogd worden. De opvolging gebeurt bij beide kinesitherapeuten a.d.h.v. een app waar ze gepersonaliseerde oefeningen meegeven met de patiënt. Nadeel is dat er niet gecontroleerd kan worden of de oefening juist is uitgevoerd. De combinatie van subjectieve data en objectieve data (stapgrootte, links-rechts verschil, trunk sway en belasting) is het meest interessant voor de opvolging. Dit zou vooral handig zijn als deze gegevens gestructureerd (in de vorm van grafieken of dergelijke) worden weergegeven in het dashboard en gelinkt zijn aan het patiëntendossier. 
 Om de loper gemotiveerd te houden is het delen en het kunnen vergelijken van activiteiten met vrienden een grote meerwaarde, al is de motivatie om een gezonde levensstijl na te streven even belangrijk. De gebruiker gaf aan dat hij voorstander is van een ‘voice coach’ om feedback te geven tijdens het lopen, al moet de frequentie ervan instelbaar zijn. 
 Zowel de gebruiker als een van de twee kinesisten gaven aan 300 tot 400 euro te willen betalen voor een product die de belasting meet inclusief de app, zolang dit compatibel is met een sporthorloge.
 
 ### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
+Na het gedane onderzoek kunnen verschillende conclusies getrokken worden die van belang zijn voor het project. Zo zal ons product de beste features van de concurrerende producten moeten integreren en zal de prijs rond de 300 euro moeten bedragen om competitief te zijn. De interviews en de competitor analysis onderstrepen dat het personaliseren van de feedback en de compatibiliteit met een sporthorloge een paar van dé belangrijkste eisen zijn. 
 
 ## Definition
 Max. 1000 woorden
@@ -114,3 +115,6 @@ Max. 500 woorden
 Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
 
 ## Bijlagen
+[^1]: Uit presentatie Kristof de Mey
+[^2]: https://drive.google.com/file/d/1wHGh7CsQYgv2biXCs35QFxxe1GM6f_Dv/view?usp=drive_link
+[^3]: https://drive.google.com/file/d/1jjlTNJBltOpXLYm31RzHXCOjIFAlKGUQ/view?usp=drive_link
