@@ -19,14 +19,42 @@ Voor het visualiseren van de data gaan we opzoek naar een gebruiksvriendelijke a
 
 
 ## Methdologie
-Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
+Het model dat wordt toegepast tijdens dit project is de ‘triple diamond’ van Zendesk. Dit model bestaat uit vier ontwerpfasen: discover, define, develop en deliver. In dit tussentijds rapport wordt er dieper ingegaan op de eerste twee fasen van het model, namelijk de dicovery en de definition fasen.
+
+### 3.1	Discovery
+In de discovery fase zijn we op zoek naar een antwoord op de vraag: ‘Wat is het probleem?’. Er wordt gedivergeerd bij het onderzoeken van het probleem en geconvergeerd bij het definiëren van het probleem. Het uiteindelijke doel is het formuleren van een goede “how can we” waarin de doelgroep en het probleem worden vastgelegd. Om dit te bereiken werden er knowledge templates toegepast en activiteiten uitgevoerd. Een van de templates die uitgevoerd werd, is de innovatrix. Om het probleem te onderzoeken werd er eerst een desktop research en een competitor analysis gedaan om de markt beter te begrijpen. Tot slot werden er user interviews en expert interviews afgenomen om de gebruiker beter te leren kennen. Dit wordt allemaal uitgevoerd door middel van een testing protocol en een rapport achteraf. Een voorbeeld van zo’n testing protocol is een topic guide, die dient om het interview in goede banen te leiden.
+Om het probleem te definiëren wordt de informatie die verzameld werd uit de verschillende activiteiten geconvergeerd. De doelgroep wordt bepaald en de belangrijkste inzichten van de gebruikers worden uitgezet in een feasibility/desirability canvas. Uit het marktonderzoek worden de huidige oplossingen en de belangrijkste trends bepaald.
+Dit komt allemaal samen in een “how can we” die, zoals gezegd, de doelgroep en het probleem vastlegt.
+
+### 3.2	Definition
+Hierna volgt de definition fase waarin een antwoord gezocht wordt op de vraag: Wat is de oplossing?”. Ook hier wordt er gedivergeerd tijdens de ideation fase en geconvergeerd bij het vormgeven van de oplossing. 
+Tijdens de ideation fase worden zo veel mogelijk oplossingen en ideeën bedacht. Dit begint bij een in-class ideation waar a.d.h.v. de lotus blossum ideation verschillende deeloplossingen worden bedacht. Daarna werd er een brainstorm gedaan om de belangrijkste inzichten van het individuele discovery onderzoek samen te leggen.
+Tijdens het convergeren wordt er een gebruiksscenario verteld met behulp van een storyboard. Er worden low-fidelity prototypes, concept sketches en wireframes gemaakt om de concepten te testen bij de gebruikers. 
+
 
 ## Discovery
-Max. 1000 woorden
 ### Doestellingen
-Wat wilde je bereiken?
+Er wordt een antwoord gezocht op de vraag: “Wat is het probleem?”. Het probleem wordt onderzocht met behulp van een desktop research en een competitor analysis. Het doel is om een duidelijk beeld schetsen van welke concurrerende oplossingen/producten er momenteel op de markt zijn. Het onderzoek zal uitwijzen wat de beste features zijn van elk product, de nadelen, prijs etc. Hieruit zal duidelijk worden welke features er absoluut moeten toegevoegd worden aan ons eigen product en welke niet. Het doel van de user en expert interviews is om een inzicht te krijgen in de wensen en noden van de gebruikers, de lopers enerzijds en de kinesitherapeut/arts anderzijds. Op basis van de antwoorden kan er beslist worden wie de doelgroep wordt, welke functies de app/dashboard zeker nodig heeft en aan welke design requirements de wearable moet voldoen. Het uiteindelijke doel is het formuleren van een goede “how can we” waarin de doelgroep en het probleem worden vastgelegd.
 ### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.
+#### 4.2.1	Desktopresearch en competitor analysis
+Het onderzoek start bij de desktopresearch en competitor analysis waarbij er gezocht wordt naar welke oplossingen er vandaag al op de markt zijn. Er werd voor de volgende producten gekozen als relevante competitors, dit zijn 7 populaire producten/wearables die je looptechniek kunnen verbeteren:
+** •	Soul Run Free Bio** 
+** •	Garmin Running Dynamics Pod**
+** •	ARION Smart Soles**
+** •	Stryd Pod Shoe Clip **
+** •	Wahoo Tickr Run HRM **
+** •	Runscribe Shoe Clip **
+** •	Sensoria Socks **
+
+De keuze voor de parameters waarop vergeleken wordt is zo veel mogelijk in belang van het project, vandaar dan ook de keuze voor volgende parameters:
+
+•	Mounting: Hoe de sensor/wearable bevestigd wordt is een van de belangrijkste aspecten van dit project. Dit bepaalt deels de nauwkeurigheid van de verkregen data, anderzijds is het comfort ervan even belangrijk.
+•	Best feature: Het spreekt voor zich dat ieder product uniek is en elk zijn eigen kwaliteiten heeft, vandaar een opsomming van de concurrenten hun beste features.
+•	Real-time feedback: Het doel van dit project is om de loper gezonder te laten lopen aan de hand van real-time feedback, daarom is het interessant om te weten welke concurrenten deze optie voorzien en hoe de feedback aan de gebruiker wordt gegeven.
+•	App: Het al dan niet voorzien van een specifieke app om de verkregen data op te tonen is een pluspunt voor de gebruiker.
+•	Cons: Elk product heeft ook zijn mindere punten, dit zijn opportuniteiten om je eigen product te differentiëren en te benadrukken wat jouw product beter doet.
+•	Price: De prijs van concurrerende producten kan deels bepalen hoe je je eigen product prijst, anderzijds kun je een inzicht krijgen in de kostenstructuur en de winstmarges van de concurrentie.
+
 ### Resultaten
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 ### Conclusies & implicaties
