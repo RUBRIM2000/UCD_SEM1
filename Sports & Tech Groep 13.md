@@ -109,7 +109,7 @@ Definieer de belangrijkste designbeslissingen
 - Prototype
 
 ## Kritische reflectie
-Max. 500 woorden
+Max. 500 woordenn
 
 ## Bronnen
 Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
