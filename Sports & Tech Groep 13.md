@@ -66,7 +66,7 @@ Er werden 3 interviews afgenomen waarvan 2 expertinterviews met een kinesitherap
 
 ### Resultaten
 #### Desktopresearch en competitor analysis
-De resultaten van de competitor analysis zijn te zien in tabel 1. We kunnen zien dat de manier van bevestiging vaak verschilt alsook de beste features van de producten. Vier van de zeven producten beschikken over real-time feedback, wat vaak gepaard gaat met het te frequent geven van feedback. Ook moeten deze producten gekoppeld worden aan een sporthorloge of een smartphone om ze te kunnen gebruiken. De prijzen zijn zeer uiteenlopend, gaande van 55 euro voor een product met basisfeatures tot 556 euro voor een product waarbij een analyse in een lab zit inbegrepen. Voor een meer uitgebreide benchmarkanalyse wordt verwezen naar het protocol[^2] en het rapport[^3].
+De resultaten van de competitor analysis zijn te zien in tabel 1. We kunnen zien dat de manier van bevestiging vaak verschilt alsook de beste features van de producten. Vier van de zeven producten beschikken over real-time feedback, wat vaak gepaard gaat met het te frequent geven van feedback. Ook moeten deze producten gekoppeld worden aan een sporthorloge of een smartphone om ze te kunnen gebruiken. De prijzen zijn zeer uiteenlopend, gaande van 55 euro voor een product met basisfeatures tot 556 euro voor een product waarbij een analyse in een lab zit inbegrepen. Voor meer uitleg over deze benchmarkanalyse wordt verwezen naar het protocol[^2] en het rapport[^3].
 
 | ***Name***  | ***Product Type*** | ***Mounting*** | ***Best Feature*** | ***Real-time feedback*** | ***App***| ***Cons*** | ***Price (€)*** |
 | ------------- | ------------- | ----------- | ---------------- | ------------------------ | ---- | -------- | ------------- |
@@ -81,7 +81,7 @@ De resultaten van de competitor analysis zijn te zien in tabel 1. We kunnen zien
 #### 4.3.2	User en expertinterviews
 Uit de interviews blijkt dat de meeste blessures voorkomen bij recreatieve sporters van boven de 50 jaar. Deze sporters willen te snel en te veel lopen, terwijl ze dit niet meer aankunnen. De huidige behandelingsmethoden beginnen bij hands-on therapie, gevolgd door een rustige opbouw waarbij geluisterd wordt naar het lichaam. Indien er geen klachten zijn, kan de intensiteit verhoogd worden. De opvolging gebeurt bij beide kinesitherapeuten a.d.h.v. een app waar ze gepersonaliseerde oefeningen meegeven met de patiënt. Nadeel is dat er niet gecontroleerd kan worden of de oefening juist is uitgevoerd. De combinatie van subjectieve data en objectieve data (stapgrootte, links-rechts verschil, trunk sway en belasting) is het meest interessant voor de opvolging. Dit zou vooral handig zijn als deze gegevens gestructureerd (in de vorm van grafieken of dergelijke) worden weergegeven in het dashboard en gelinkt zijn aan het patiëntendossier. 
 Om de loper gemotiveerd te houden is het delen en het kunnen vergelijken van activiteiten met vrienden een grote meerwaarde, al is de motivatie om een gezonde levensstijl na te streven even belangrijk. De gebruiker gaf aan dat hij voorstander is van een ‘voice coach’ om feedback te geven tijdens het lopen, al moet de frequentie ervan instelbaar zijn. 
-Zowel de gebruiker als een van de twee kinesisten gaven aan 300 tot 400 euro te willen betalen voor een product die de belasting meet inclusief de app, zolang dit compatibel is met een sporthorloge.
+Zowel de gebruiker als een van de twee kinesisten gaven aan 300 tot 400 euro te willen betalen voor een product die de belasting meet inclusief de app, zolang dit compatibel is met een sporthorloge. Ook bij de interviews wordt verwezen naar de protocols[^4][^5] en rapporten[^6][^7].
 
 ### Conclusies & implicaties
 Na het gedane onderzoek kunnen verschillende conclusies getrokken worden die van belang zijn voor het project. Zo zal ons product de beste features van de concurrerende producten moeten integreren en zal de prijs rond de 300 euro moeten bedragen om competitief te zijn. De interviews en de competitor analysis onderstrepen dat het personaliseren van de feedback en de compatibiliteit met een sporthorloge een paar van dé belangrijkste eisen zijn. 
@@ -118,3 +118,7 @@ Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
 [^1]: Uit presentatie Kristof de Mey
 [^2]: https://drive.google.com/file/d/1wHGh7CsQYgv2biXCs35QFxxe1GM6f_Dv/view?usp=drive_link
 [^3]: https://drive.google.com/file/d/1jjlTNJBltOpXLYm31RzHXCOjIFAlKGUQ/view?usp=drive_link
+[^4]: https://drive.google.com/file/d/1m1I5E_-V09NOw_wSy9RsEpCx_DURTtM5/view?usp=drive_link
+[^5]: https://drive.google.com/file/d/1PUERY7WOe_0lMdr5ibPD2JiIq6wNtUD2/view?usp=drive_link
+[^6]: https://drive.google.com/file/d/1AH3_2Y1O2Cm2qCNJkhiGDWLtq_c95EFd/view?usp=drive_link
+[^7]: https://drive.google.com/file/d/17NUr8E6auOlrrevVlJ7KdzkwKCOv1vjS/view?usp=drive_link
