@@ -3,7 +3,7 @@
 
 *Groep 13: Milan Berckmoes; Ruben Rimbaut*
 
-12 - 02 - 2024
+19 - 02 - 2024
 
 ## Samenvatting
 
@@ -11,12 +11,12 @@ Afgelopen semester verdiepten we ons in OnTracx, een start-up van UGent die met 
 
 ## Introductie
 
-Wereldwijd zijn er 110 miljoen lopers, waarvan 50 miljoen last heeft van blessures. Ondanks de vele oplossingen die diverse merken bieden dalen deze cijfers niet, de oplossing moet dus elders gezocht worden. OnTracx komt met een vernieuwende aanpak waarbij de kern van het probleem, volgens hen, centraal staat: het verminderen van de impact op de botten. OnTracx zette ons al voor een groot deel op weg, maar hier en daar zagen wij toch nog enkele valkuilen. 
+Wereldwijd zijn er 110 miljoen lopers, waarvan 50 miljoen last heeft van blessures[^1]. Ondanks de vele oplossingen die diverse merken bieden dalen deze cijfers niet, de oplossing moet dus elders gezocht worden. OnTracx komt met een vernieuwende aanpak waarbij de kern van het probleem, volgens hen, centraal staat: het verminderen van de impact op de botten. OnTracx zette ons al voor een groot deel op weg, maar hier en daar zagen wij toch nog enkele valkuilen. 
 
 Wij zullen ons binnen deze designstudie focussen op het uitwerken van de wearable waarin de sensor verwerkt zit en een app voor het visualiseren van de data. Voor de wearable gaan we opzoek naar allerhande methoden waarmee de sensor aan het scheenbeen bevestigd kan worden. Daarbij is het belangrijk dat de sensor niet kan bewegen en dat we tegelijkertijd de doorbloeding van het been niet afsnijden. Voor een nauwkeurige en betrouwbare meting is het cruciaal dat de sensor correct gedragen wordt en dat de gebruiker deze dus ook zelf op een correcte manier kan aanbrengen.
 
 Voor het visualiseren van de data gaan we opzoek naar een gebruiksvriendelijke applicatie waarbij de focus ligt op het revalidatieproces enerzijds en het gemotiveerd houden van de gebruiker anderzijds. Dit laatste zullen we proberen met behulp van gamificatie zodat de gebruiker steeds een doel heeft om naar toe te werken en zichzelf kan vergelijken met andere gebruikers. Op deze manier proberen we het revalidatieproces dragelijker te maken. 
-
+[^1]: Uit presentatie Kristof de Mey
 
 ## Methdologie
 Het model dat wordt toegepast tijdens dit project is de ‘triple diamond’ van Zendesk. Dit model bestaat uit vier ontwerpfasen: discover, define, develop en deliver. In dit tussentijds rapport wordt er dieper ingegaan op de eerste twee fasen van het model, namelijk de dicovery en de definition fasen.
@@ -38,22 +38,22 @@ Er wordt een antwoord gezocht op de vraag: “Wat is het probleem?”. Het probl
 ### Materiaal & methoden
 #### 4.2.1	Desktopresearch en competitor analysis
 Het onderzoek start bij de desktopresearch en competitor analysis waarbij er gezocht wordt naar welke oplossingen er vandaag al op de markt zijn. Er werd voor de volgende producten gekozen als relevante competitors, dit zijn 7 populaire producten/wearables die je looptechniek kunnen verbeteren:
-** •	Soul Run Free Bio** 
-** •	Garmin Running Dynamics Pod**
-** •	ARION Smart Soles**
-** •	Stryd Pod Shoe Clip **
-** •	Wahoo Tickr Run HRM **
-** •	Runscribe Shoe Clip **
-** •	Sensoria Socks **
+- **Soul Run Free Bio**
+- **Garmin Running Dynamics Pod**
+- **ARION Smart Soles**
+- **Stryd Pod Shoe Clip**
+- **Wahoo Tickr Run HRM**
+- **Runscribe Shoe Clip**
+- **Sensoria Socks**
 
 De keuze voor de parameters waarop vergeleken wordt is zo veel mogelijk in belang van het project, vandaar dan ook de keuze voor volgende parameters:
 
-•	Mounting: Hoe de sensor/wearable bevestigd wordt is een van de belangrijkste aspecten van dit project. Dit bepaalt deels de nauwkeurigheid van de verkregen data, anderzijds is het comfort ervan even belangrijk.
-•	Best feature: Het spreekt voor zich dat ieder product uniek is en elk zijn eigen kwaliteiten heeft, vandaar een opsomming van de concurrenten hun beste features.
-•	Real-time feedback: Het doel van dit project is om de loper gezonder te laten lopen aan de hand van real-time feedback, daarom is het interessant om te weten welke concurrenten deze optie voorzien en hoe de feedback aan de gebruiker wordt gegeven.
-•	App: Het al dan niet voorzien van een specifieke app om de verkregen data op te tonen is een pluspunt voor de gebruiker.
-•	Cons: Elk product heeft ook zijn mindere punten, dit zijn opportuniteiten om je eigen product te differentiëren en te benadrukken wat jouw product beter doet.
-•	Price: De prijs van concurrerende producten kan deels bepalen hoe je je eigen product prijst, anderzijds kun je een inzicht krijgen in de kostenstructuur en de winstmarges van de concurrentie.
+- **Mounting**: Hoe de sensor/wearable bevestigd wordt is een van de belangrijkste aspecten van dit project. Dit bepaalt deels de nauwkeurigheid van de verkregen data, anderzijds is het comfort ervan even belangrijk.
+- **Best feature**: Het spreekt voor zich dat ieder product uniek is en elk zijn eigen kwaliteiten heeft, vandaar een opsomming van de concurrenten hun beste features.
+- **Real-time feedback**: Het doel van dit project is om de loper gezonder te laten lopen aan de hand van real-time feedback, daarom is het interessant om te weten welke concurrenten deze optie voorzien en hoe de feedback aan de gebruiker wordt gegeven.
+- **App**: Het al dan niet voorzien van een specifieke app om de verkregen data op te tonen is een pluspunt voor de gebruiker.
+- Cons: Elk product heeft ook zijn mindere punten, dit zijn opportuniteiten om je eigen product te differentiëren en te benadrukken wat jouw product beter doet.
+- Price: De prijs van concurrerende producten kan deels bepalen hoe je je eigen product prijst, anderzijds kun je een inzicht krijgen in de kostenstructuur en de winstmarges van de concurrentie.
 
 ### Resultaten
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
