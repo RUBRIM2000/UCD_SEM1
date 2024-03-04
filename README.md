@@ -138,7 +138,7 @@ Vanwege de beperkte functionaliteit kon de app voorlopig nog niet getest worden.
 Tijdens de develop fase wordt er een antwoord gezocht op de vraag: 'Hoe moet de oplossing eruit zien?'. Dit gebeurt aan de hand van 3 develop fasen waarbij gefocust wordt op: 'Human Body', 'Human Mind' en 'Human Senses'. Bij developfase 1 wordt er gekeken naar de 'Human Body' en er zal met behulp van gebruikerstesten en een anthropometrische analyse gezocht worden naar optimalisaties op vlak van fysieke ergonomie. Tijdens deze fase zullen we testen op de grootte van de wearable en de manier waarop deze gesloten en aangespannen wordt. Op basis van de antwoorden van de gebruikers wordt het ontwerp aangepast en verbeterd.
 ### Materiaal en methoden
 #### Anthropometrische analyse
-Bij de anthropometrische analyse werd er gekeken naar de belangrijkste maten voor het ontwerpen van de wearable. Blijkt dat voor onze challenge enkel de omtrek van het scheenbeen van belang is.
+Bij de anthropometrische analyse werd er gekeken naar de belangrijkste maten voor het ontwerpen van de wearable. Blijkt dat voor onze challenge enkel de omtrek van het scheenbeen van belang is. Aangezien deze maat niet in de anthropometrische databases te vinden was werd er beslist om de analyse toe te passen op de maat die het dichtst aanleunt bij het scheenbeen, de omtrek van de enkel. De meest geschikte ontwerpstrategie (design for x) wordt bepaald en op basis van de data-analyse worden er ontwerpbeslissingen gemaakt.
 ### Resultaten
 ### Conclusies en implicaties
 
