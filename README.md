@@ -80,7 +80,7 @@ De resultaten van de competitor analysis zijn te zien in tabel 1. We kunnen zien
 | **Runscribe Shoe Clip** | Shoe clip full of sensors  | Clipped to your shoelaces | A lot of data | Yes | Yes | Expensive | 556 |
 | **Sensoria Socks**  | Smart socks  | On your feet | Personalizing your run (feedback,…) | Yes | Yes | Phone needed to view live data | 278 |
 
-#### 4.3.2	User en expertinterviews
+#### User en expertinterviews
 Uit de interviews blijkt dat de meeste blessures voorkomen bij recreatieve sporters van boven de 50 jaar. Deze sporters willen te snel en te veel lopen, terwijl ze dit niet meer aankunnen. De huidige behandelingsmethoden beginnen bij hands-on therapie, gevolgd door een rustige opbouw waarbij geluisterd wordt naar het lichaam. Indien er geen klachten zijn, kan de intensiteit verhoogd worden. De opvolging gebeurt bij beide kinesitherapeuten a.d.h.v. een app waar ze gepersonaliseerde oefeningen meegeven met de patiënt. Nadeel is dat er niet gecontroleerd kan worden of de oefening juist is uitgevoerd. De combinatie van subjectieve data en objectieve data (stapgrootte, links-rechts verschil, trunk sway en belasting) is het meest interessant voor de opvolging. Dit zou vooral handig zijn als deze gegevens gestructureerd (in de vorm van grafieken of dergelijke) worden weergegeven in het dashboard en gelinkt zijn aan het patiëntendossier. 
 Om de loper gemotiveerd te houden is het delen en het kunnen vergelijken van activiteiten met vrienden een grote meerwaarde, al is de motivatie om een gezonde levensstijl na te streven even belangrijk. De gebruiker gaf aan dat hij voorstander is van een ‘voice coach’ om feedback te geven tijdens het lopen, al moet de frequentie ervan instelbaar zijn. 
 Zowel de gebruiker als een van de twee kinesisten gaven aan 300 tot 400 euro te willen betalen voor een product die de belasting meet inclusief de app, zolang dit compatibel is met een sporthorloge. Ook bij de interviews wordt verwezen naar de protocols[^4] [^5] en rapporten[^6] [^7].
@@ -133,7 +133,12 @@ Na het prototypen werd dit systeem uiteraard getest. We lieten 10 respondenten d
 #### De app
 Vanwege de beperkte functionaliteit kon de app voorlopig nog niet getest worden. Voor de opbouw van de app werd gekeken naar relevante benchmarks zoals Strava en Garmin Connect. We hebben geprobeerd de app zo vertrouwd en eenvoudig mogelijk op te bouwen, zonder afbraak te doen aan mogelijkheden. We kunnen dus vermoeden dat de UX vrij positief ervaren zal worden. Verdere uitwerking en bijkomende testen zullen hier volgend semester meer duidelijkheid over scheppen.
 
-
+## Develop
+### Doelstellingen
+Tijdens de develop fase wordt er een antwoord gezocht op de vraag: 'Hoe moet de oplossing eruit zien?'. Dit gebeurt aan de hand van 3 develop fasen waarbij gefocust wordt op: 'Human Body', 'Human Mind' en 'Human Senses'. Het doel is om steeds tot een geoptimaliseerd ontwerp te komen door het toepassen van een specifieke analyse en het testen op gebruikers. Op basis van de antwoorden van de gebruikers wordt het ontwerp aangepast en verbeterd.
+### Materiaal en methoden
+### Resultaten
+### Conclusies en implicaties
 
 ## Bill of materials
 Het fysiek uitwerken van prototypes zal vooral gebeuren bij de uitwerking van de wearable. Hiervoor werden volgende materialen gebruikt:
