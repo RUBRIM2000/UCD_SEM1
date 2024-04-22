@@ -143,7 +143,7 @@ Bij de anthropometrische analyse werd er gekeken naar de belangrijkste maten voo
 Verder zijn er bij 4 personen gebruikerstesten uitgevoerd met als focus het optimaliseren van de fysieke ergonomie. De focus bij deze testen lag op de manier van aanspannen van de wearable en het sluiten ervan. Er zijn hiervoor 3 prototypes gemaakt elk met verschillende sluit- en spansystemen. Er is een prototype gemaakt met een gesloten band en een gesp om deze aan te spannen, deze is van een skihandschoen afgeknipt. Er is een prototype waarvan er een stuk van een hartslagmeter is afgeknipt, deze kan aangespannen worden met de dubbele riem. Deze wordt geopend en gesloten met een haakje dat er aangenaaid is, hierdoor moet de maat slechts 1 keer ingesteld worden en kan deze daarna telkens geopend en gesloten worden met het haakje. Tot slot is er een prototype waarbij gebruikgemaakt wordt van een BOA-sluiting. De BOA-sluiting is afgeknipt van een oud paar fietsschoenen en deze werden vastgenaaid op een lintje stof zodat er een gesloten band gevormd wordt.
 ### Resultaten
 #### Anthropometrische analyse
-
+Het doel van ons project is om een band van een bepaalde lengte te laten knippen op maat door een 'professional'. Vandaar dat we zijn uitgekomen op volgende designstrategie: design for adjustability. Uit de steekproef is gebleken dat de gemiddelde omtrek van het scheenbeen 22,86cm is met een standaardafwijking van 2,17cm.
 ### Conclusies en implicaties
 
 ## Bill of materials
