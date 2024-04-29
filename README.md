@@ -97,40 +97,61 @@ Na het gedane onderzoek kunnen verschillende conclusies getrokken worden die van
 Vervolgens gaan we opzoek naar een antwoord op de vraag “Wat is de oplossing?”. Hierbij richten we ons opnieuw op de wearable, die onmisbaar is voor een goede werking van de app. Dit onderdeel van het product is bewust gekozen omdat alles valt of staat met het correct dragen van de sensor. Wanneer de sensor niet correct op het scheenbeen bevestigd zit kunnen de gemeten waarden sterk afwijken van de realiteit. Dit is niet alleen van belang voor de gebruiker maar ook voor de kinesitherapeut die het platform zal gebruiken om de patiënt optimaal op te volgen tijdens het revalidatie traject. Kiné’s geven zelf aan het systeem enkel te zullen gebruiken wanneer ze de garantie krijgen dat de meetwaarden die ze zullen gebruiken betrouwbaar zijn. 
 
 ### Materiaal & methoden
+Wanneer gekeken wordt naar hoe de sensor optimaal op het scheenbeen bevestigd wordt is alles terug te brengen naar wrijvingskracht. De wrijvingskracht zal bepalen vanaf welke inpakt de sensor zich verplaatst ten opzichte van zijn positie, deze verschuiving resulteert direct in vergrote foutmarge op de metingen.
+
+Deze wrijvingskracht kunnen we zoals de formule het beschrijft opsplitsen in 2 factoren, de statische wrijvingsconstante en de normaalkracht. 
+F_w = μ_s ∙ F_N      (1)
+
+De statische wrijvingsconstante slaat op de wrijving tussen de band en de huid. De normaalkracht slaat op de kracht die de band en sensor uitoefenen op het been of met andere woorden hoe hard de band spant.
+
+#### De statische wrijvingsconstante
+Bij een lage wrijvingsconstante tussen de band en de huid zal de sensor zicht te veel verplaatsen en zullen de gemeten waarden dus niet betrouwbaar zijn. Daarom is getest met een rubberen inleg die deze wrijving moet verhogen.
+De test is geïnspireerd op een bestaand testprotocol, weergegeven in bijlage 1.
+Test protocol:
+15cm band wordt telkens op de rand van een bureau gelegd en belast met een gewicht van 750g, aan het andere uiteinde wordt een emmer bevestigd. 2 types band (figuur 2) worden getest: 
+
+-	Een klassieke rekker 
+-	Een rekker met rubberen inleg
+De emmer wordt stillaan met water gevuld en wanneer het gewicht begint te schuiven wordt de massa van de gevulde emmer gewogen.
+#### De normaalkracht/spanning
+De spanning van de band bepaalt ook in zeer grote mate of de sensor op zijn plaats blijft zitten. De rekker kan te weinig aangespannen worden en dan zakt de sensor af, maar de rekker kan ook te veel aangespannen worden. Dit zorgt voor dat de bloedtoevoer naar de enkel kan worden afgesneden worden wat de kans op blessures verhoogd door een tekort aan bloed in de voetspieren.
+
+De moeilijkheid bij de normaalkracht is dat iedere gebruiker de band telkens op de juiste spanning moet kunnen brengen. Er dient een systeem te zijn dat voor de gebruiker intuïtief en makkelijk te hanteren is. 
+3 systemen werden getest bij gebruikers:
+
+-	Een systeem zonder feedback (benchmark):
+  Hierbij krijgt de gebruiker geen feedback over hoe hard hij of zij de band aanspant maar moet deze zelf bepalen wanneer de rakker volgens hen voldoende hard is aangespannen. Aan de hand van een druk sensor wordt echter wel gemeten welke druk de sensor op het been uitoefent. Op deze manier kan een beeld geschetst worden over hoe continu de gebruiker deze band aanspant maar ook hoe dicht de gebruiker op intuïtieve wijze bij de ideale spanning komt.
+ 	- Een systeem met analoge feedback:
+    Hiervoor ontwikkelden we een nieuw concept dat werkt aan de hand van 2 indicatielijnen op de band. Over de band wordt een plaatje geschoven met 2 gleuven in, het is de bedoeling dat men de band verder aanspant tot de 2 indicatielijnen (in het rood weergegeven) uitlijnen met de voorziene gleuven. Wanneer de lijnen niet overeenkomen met de gleuven zal de band ofwel te zacht of te hard aangespannen zijn.
+  - Een systeem met digitale feedback:
+    De druksensor die ook gebruikt wordt bij de testen zonder feedback zal hier opnieuw gebruikt worden maar deze keer ook feedback geven. Aan de hand van een RGB Led kan de gebruiker zien of hij de band te hard, te zacht of precies op de juiste spanning aanspant.
+De 3 systemen werden getest volgens het testprotocol (bijlage 2)
 #### Storyboard
 Vooraleer we begonnen met het maken van prototypes, was het essentieel om dieper in te gaan op de vraag “Wat is de oplossing”. Hiervoor zijn we teruggegaan naar de kern van de zaak: wie is de gebruiker en hoe komt deze terecht bij ons product. 
 Uit de prijs van het product en de interviews kunnen we concluderen dat sporters de sensor niet zullen dragen tenzij ze kampen met blessures. Het verhaal begint meestal met een geblesseerd persoon die bij de kinesitherapeut gaat voor revalidatie. Om ons product dus bij de gebruiker te introduceren, zullen we moeten focussen op kinesisten. Voor hen is het belangrijk dat de wearable goed werkt en dat het professioneel dashboard een meerwaarde biedt. Een ander deel van de gebruikers zal bij ons product terechtkomen via mond-tot-mondreclame, om zo toekomstige blessures te vermijden. Voor deze doelgroep is het belangrijk dat de wearable zelfstandig (zonder uitleg van een kinesitherapeut) en correct kan worden aangespannen en dat anderzijds de app gebruiksvriendelijk is.
 
 ![storyboard_finaal](https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/47c9790b-1542-4155-a509-7ab265db5837)
 
-
-#### Brainstorm
-Vervolgens werd gebruikgemaakt van een brainstormsessie om alle mogelijke problemen in kaart te brengen. Hierna zijn we opzoek gegaan naar mogelijke concepten en de bijhorende design requirements. Als resultaat werd een uitgebreid brainstormdiagram bekomen dat ons een goed inzicht geeft in hoe we een oplossing kunnen bieden. De pdf van de Miro map kan hier[^8] te zien zijn.
-
-#### Materialen 
-Om de prototypes te vervaardigen werd voornamelijk gebruikgemaakt van afvalmaterialen en 3D printing. Beide waren ruimschoots beschikbaar tijdens het prototypingproces. Omdat we voor de wearable een band dienen te ontwerpen die rond het been past, zullen textieloverschotten gebruikt worden.
-Voor het prototypen van de app zullen Figma en Protopie de tools zijn waarmee we een zo realistisch mogelijk beeld van het concept schetsen.
-
-
 ### Resultaten
-#### De wearable
-Voor de wearable lag de focus, zoals eerder vermeld, op een systeem waarmee de gebruiker de scheenband op een correcte wijze aanspant. Bij een te lage spanning zal de band loskomen, bij een te hoge wordt de doorbloeding afgesneden. Niet alle scheenbenen hebben dezelfde omtrek en dus moet de band instelbaar zijn. De eenvoudigste manier om dit te bereiken is via het onderstaande systeem. 
-
-![wearable prototype](https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/a4ff886a-6532-4768-959d-54d63d991bb7)
-
-Op deze manier is de spanning echter moeilijk correct in te stellen, de gebruiker kan zonder ervaring nooit de correcte spanning instellen. Om dit te verhelpen zullen we de niet-rekbare velcro strip vervangen door een elastische band. De manier om de band aan te spannen en deze te bevestigen blijft gelijk. Door deze aanpassing zal de gebruiker minder snel fouten maken bij het aanspannen. Het wordt pas nauwkeurig wanneer we een maatstaf te hanteren. Hiervoor ontwikkelden we een nieuw concept dat werkt aan de hand van 2 indicatielijnen op de band. Over de band wordt een plaatje geschoven met 2 gleuven in. Het is de bedoeling dat men de band verder aanspant tot de 2 indicatielijnen (in het rood weergegeven) uitlijnen met de voorziene gleuven. Wanneer de lijnen niet overeenkomen met de gleuven zal de band ofwel te zacht ofwel te hard aangespannen zijn.
-
-![wearable spansysteem](https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/5ff18044-4918-4e5e-b6ae-01e86bd3b6bd)
-
-#### De app
-Met behulp van Figma en Protopie werd een eerste versie van de app ontworpen. Hierbij werd vooral gezocht naar een gebruiksvriendelijk UX/UI design. Voorlopig bestaat de app uit de volgende 5 tabbladen: Home, Rehab, Record, Challenges en Profile. Bij elk van deze tabbladen werd een voorlopige lay-out toegevoegd. In het ‘Home’ tabblad zal je de activiteiten en stories van je vrienden kunnen zien en in het ‘Rehab’ tabblad worden oefeningen weergegeven die de kinesitherapeut voorziet voor de patiënt. Vervolgens vind men in het ‘Record’ tabblad de optie om een activiteit op te nemen, hier zal de live belasting en nog enkele andere gegevens te zien zijn. In het tabblad ‘Challenges’ zal men verschillende functies te zien krijgen omtrent gamification, zoals rankings en persoonlijke records. Dit met als doel de loper gemotiveerd te houden. Tot slot is er nog het ‘Profile’ tabblad, hier zal de gebruiker zijn eigen activiteiten kunnen bestuderen. Een kleine preview van de app kan hier[^9] te zien zijn.
+De resultaten en bemerkingen van de afgenomen testen zijn weergegeven in onderstaande alinea’s.
+#### De statische wrijvingsconstante
+Bij het vullen van de emmer begon het gewicht te schuiven bij zeer uiteenlopende waarden.
+De emmer had een leeggewicht van 384g, omdat ook dit al te zwaar bleek te zijn is gewerkt met een pennenzak waar telkens pennen werden bijgestopt. 
+TABEL
+Aangezien de normaalkracht F_N in deze opstelling constant is kan aan de hand van formule 1 afgeleid worden dat de statische wrijvingscoëfficiënt van de rekker met rubberen inleg meer dan 6 keer zo groot is.
+#### De normaalkracht/spanning
+Uit de bevraging komt de band met digitale bij bijna alle gebruikers als favoriet naar boven. Voornamelijk de duidelijke feedback aan de hand van kleurcodes scoort goed.
+ 
+Een meer uitgebreid inzicht in de antwoorden op de bevraging zijn terug te vinden in bijlage 3
 
 ### Conclusies & implicaties
-#### De wearable
-Na het prototypen werd dit systeem uiteraard getest. We lieten 10 respondenten de op pagina 10 afgebeelde afbeelding zien en vroegen aan de hand hiervan om de scheenband correct aan te doen en deze op te spannen. De resultaten zijn veel belovend aangezien er maar 1 van de 5 deelnemers bijkomende uitleg nodig had, alle andere deelnemers hadden voldoende aan het bekijken van de instructie afbeelding om de band correct aan te doen.
-
-#### De app
-Vanwege de beperkte functionaliteit kon de app voorlopig nog niet getest worden. Voor de opbouw van de app werd gekeken naar relevante benchmarks zoals Strava en Garmin Connect. We hebben geprobeerd de app zo vertrouwd en eenvoudig mogelijk op te bouwen, zonder afbraak te doen aan mogelijkheden. We kunnen dus vermoeden dat de UX vrij positief ervaren zal worden. Verdere uitwerking en bijkomende testen zullen hier volgend semester meer duidelijkheid over scheppen.
+#### De statische wrijvingsconstante
+Uit de resultaten van de statische wrijvingsconstante test kan zeer duidelijk afgeleid worden dat er moet gekozen worden voor een rekker met rubberen inleg. De wrijvingsconstante is meer dan 6 keer zo groot en de sensor zal dus veel beter op zijn plaats blijven zitten dan bij gebruik van een klassieke rekker.
+#### De normaalkracht/spanning
+Naast de conclusie dat de band met digitale feedback het meest gebruiksvriendelijk wordt ervaren zijn er nog enkele opmerkelijke meningen uit de test gekomen. Zo bleek er bij alle gebruikers een gevoel van ongemak te ontstaan wanneer ze de band zonder feedback dienden aan te doen. De analoge feedback werd door quasi iedereen als niet voldoende duidelijk ervaren maar vanwege de feedback wel zonder twijfel beter dan de benchmark.
+Een van de gebruikers gaf aan een led bij uitstek de beste oplossing te vinden, lopers zijn namelijk steeds mensen die nog voldoende zien maar niet per se mensen met een voldoende goed gehoor. 
+Dit kan een belangrijk inzicht bieden in andere aspecten van het systeem.
+Tenslotte viel ook op de het steeds opnieuw instellen of aanspannen van de band voor enkele gebruikers te veel moeite was, een band die niet instelbaar is maar gewoon op maat wordt gemaakt kwam bij een van hen als idee naar boven.
 
 ## Develop 1
 ### Doelstellingen
