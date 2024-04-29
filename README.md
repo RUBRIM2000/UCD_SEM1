@@ -94,8 +94,7 @@ Na het gedane onderzoek kunnen verschillende conclusies getrokken worden die van
 ## Definition
 
 ### Doestellingen
-Vervolgens gaan we opzoek naar een antwoord op de vraag “Wat is de oplossing?”. Hierbij richten we ons opnieuw op de wearable, die onmisbaar is voor een goede werking van de app. Voor de wearable zullen we gericht onderzoek doen naar methoden en concepten zodat de gebruiker telkens de band perfect kan aanspannen rond het been. Dit zal in grote mate bepalen of de sensor op zijn plaats blijft zitten of niet. Naast dit hoofddoel zullen we opzoek gaan naar hoe we de band zelf kunnen modificeren om de grip op het been nog te versterken.
-Voor zowel de app als het dashboard is onderzoek uitgevoerd naar de eisen en wensen van zowel de gebruikers als de professionelen. In deze fase zullen we prototypes maken en testen om tot een goede oplossing te komen.
+Vervolgens gaan we opzoek naar een antwoord op de vraag “Wat is de oplossing?”. Hierbij richten we ons opnieuw op de wearable, die onmisbaar is voor een goede werking van de app. Dit onderdeel van het product is bewust gekozen omdat alles valt of staat met het correct dragen van de sensor. Wanneer de sensor niet correct op het scheenbeen bevestigd zit kunnen de gemeten waarden sterk afwijken van de realiteit. Dit is niet alleen van belang voor de gebruiker maar ook voor de kinesitherapeut die het platform zal gebruiken om de patiënt optimaal op te volgen tijdens het revalidatie traject. Kiné’s geven zelf aan het systeem enkel te zullen gebruiken wanneer ze de garantie krijgen dat de meetwaarden die ze zullen gebruiken betrouwbaar zijn. 
 
 ### Materiaal & methoden
 #### Storyboard
