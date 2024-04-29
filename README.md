@@ -121,9 +121,9 @@ De moeilijkheid bij de normaalkracht is dat iedere gebruiker de band telkens op 
 
 -	Een systeem zonder feedback (benchmark):
   Hierbij krijgt de gebruiker geen feedback over hoe hard hij of zij de band aanspant maar moet deze zelf bepalen wanneer de rakker volgens hen voldoende hard is aangespannen. Aan de hand van een druk sensor wordt echter wel gemeten welke druk de sensor op het been uitoefent. Op deze manier kan een beeld geschetst worden over hoe continu de gebruiker deze band aanspant maar ook hoe dicht de gebruiker op intuïtieve wijze bij de ideale spanning komt.
- 	- Een systeem met analoge feedback:
+- Een systeem met analoge feedback:
     Hiervoor ontwikkelden we een nieuw concept dat werkt aan de hand van 2 indicatielijnen op de band. Over de band wordt een plaatje geschoven met 2 gleuven in, het is de bedoeling dat men de band verder aanspant tot de 2 indicatielijnen (in het rood weergegeven) uitlijnen met de voorziene gleuven. Wanneer de lijnen niet overeenkomen met de gleuven zal de band ofwel te zacht of te hard aangespannen zijn.
-  - Een systeem met digitale feedback:
+ - Een systeem met digitale feedback:
     De druksensor die ook gebruikt wordt bij de testen zonder feedback zal hier opnieuw gebruikt worden maar deze keer ook feedback geven. Aan de hand van een RGB Led kan de gebruiker zien of hij de band te hard, te zacht of precies op de juiste spanning aanspant.
 De 3 systemen werden getest volgens het testprotocol (bijlage 2)
 #### Storyboard
