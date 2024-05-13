@@ -97,7 +97,7 @@ Na het gedane onderzoek kunnen verschillende conclusies getrokken worden die van
 Vervolgens gaan we opzoek naar een antwoord op de vraag “Wat is de oplossing?”. Hierbij richten we ons opnieuw op de wearable, die onmisbaar is voor een goede werking van de app. Dit onderdeel van het product is bewust gekozen omdat alles valt of staat met het correct dragen van de sensor. Wanneer de sensor niet correct op het scheenbeen bevestigd zit kunnen de gemeten waarden sterk afwijken van de realiteit. Dit is niet alleen van belang voor de gebruiker maar ook voor de kinesitherapeut die het platform zal gebruiken om de patiënt optimaal op te volgen tijdens het revalidatie traject. Kiné’s geven zelf aan het systeem enkel te zullen gebruiken wanneer ze de garantie krijgen dat de meetwaarden die ze zullen gebruiken betrouwbaar zijn. 
 
 ### Materiaal & methoden
-Wanneer gekeken wordt naar hoe de sensor optimaal op het scheenbeen bevestigd wordt is alles terug te brengen naar wrijvingskracht. De wrijvingskracht zal bepalen vanaf welke inpakt de sensor zich verplaatst ten opzichte van zijn positie, deze verschuiving resulteert direct in vergrote foutmarge op de metingen.
+Wanneer gekeken wordt naar hoe de sensor optimaal op het scheenbeen bevestigd wordt is alles terug te brengen naar wrijvingskracht. De wrijvingskracht zal bepalen vanaf welke impact de sensor zich verplaatst ten opzichte van zijn positie, deze verschuiving resulteert direct in vergrote foutmarge op de metingen.
 
 Deze wrijvingskracht kunnen we zoals de formule het beschrijft opsplitsen in 2 factoren, de statische wrijvingsconstante en de normaalkracht. 
 F_w = μ_s ∙ F_N      (1)
