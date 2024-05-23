@@ -156,20 +156,88 @@ Tenslotte viel ook op de het steeds opnieuw instellen of aanspannen van de band 
 ## Develop 1
 ### Doelstellingen
 Tijdens de develop fase wordt er een antwoord gezocht op de vraag: 'Hoe moet de oplossing eruit zien?'. Dit gebeurt aan de hand van 3 develop fasen waarbij gefocust wordt op: 'Human Body', 'Human Mind' en 'Human Senses'. Bij developfase 1 wordt er gekeken naar de 'Human Body' en zal er met behulp van gebruikerstesten en een anthropometrische analyse gezocht worden naar optimalisaties op vlak van fysieke ergonomie. Tijdens deze fase zullen we testen op de grootte van de wearable en de manier waarop deze gesloten en aangespannen wordt. Op basis van de antwoorden van de gebruikers wordt het ontwerp aangepast en verbeterd.
+
 ### Materiaal en methoden
 #### Anthropometrische analyse
 Bij de anthropometrische analyse werd er gekeken naar de belangrijkste maten voor het ontwerpen van de wearable. Blijkt dat voor onze challenge enkel de omtrek van het scheenbeen van belang is. Aangezien deze maat niet in de anthropometrische databases te vinden was werd er beslist om de analyse toe te passen op basis van een steekproef in de klas waarbij de omtrek van het scheenbeen werd gemeten. De steekproef bestond uit een groep van 24 mensen tussen 19 en 22 jaar, waarvan de mannen in de overgrote meerderheid waren. De meest geschikte ontwerpstrategie (design for x) wordt bepaald en op basis van de data-analyse worden er ontwerpbeslissingen gemaakt.
+
 #### Gebruikerstesten
 Verder zijn er bij 4 personen gebruikerstesten uitgevoerd met als focus het optimaliseren van de fysieke ergonomie. De focus bij deze testen lag op de manier van aanspannen van de wearable en het sluiten ervan. Er zijn hiervoor 3 prototypes gemaakt elk met verschillende sluit- en spansystemen. Er is een prototype gemaakt met een gesloten band en een gesp om deze aan te spannen, deze is van een skihandschoen afgeknipt. Er is een prototype waarvan er een stuk van een hartslagmeter is afgeknipt, deze kan aangespannen worden met een dubbele riem. De band wordt geopend en gesloten met een haakje dat er aangenaaid is, hierdoor moet de maat slechts 1 keer ingesteld worden en kan deze daarna telkens geopend en gesloten worden met het haakje. Tot slot is er een prototype waarbij gebruikgemaakt wordt van een BOA-sluiting. De BOA-sluiting is afgeknipt van een oud paar fietsschoenen en deze werden vastgenaaid op een lintje stof zodat er een gesloten band gevormd wordt.
+
 ### Resultaten
 #### Anthropometrische analyse
 Het doel van ons project is om een band van een bepaalde lengte te laten knippen op maat door een 'professional'. Vandaar dat we zijn uitgekomen op volgende designstrategie: design for the tall. Uit de steekproef is gebleken dat de gemiddelde omtrek van het scheenbeen 22,86cm is met een standaardafwijking van 2,17cm. We kiezen ervoor dat de lengte van de band die we leveren aan de 'professional' reikt tot P95. Hierdoor is ons product voor een groot deel van de bevolking toegankelijk maar sluiten we de extreme hoge waarden uit om kosten en verliezen te besparen. De lengte van de band zal dus maximaal 26,43cm zijn, deze wordt dan door de 'professional' op maat geknipt en kan die dus voor alle gebruikers met een scheenbeenomtrek kleiner of gelijk aan 26,43cm gebruikt worden.
+
 #### Gebruikerstesten
 Uit de gebruikerstesten zijn verschillende dingen duidelijk geworden op basis van de feedback van de gebruikers. Eerst en vooral ging de voorkeur qua vormgeving naar de wearable met haakje en dubbele riem, maar de andere twee wearables waren meer quick & dirty waardoor we kritisch moeten staan tegenover deze feedback.
 Hoe ze de wearables moesten sluiten kon op twee manieren, er is enerzijds het prototype met het haakje en anderzijds de twee prototypes waarbij je de wearable rond je voet moet doen om deze te kunnen bevestigen aan je scheenbeen. De gebruikers waren het unaniem eens over de manier van aandoen en kozen resoluut voor de optie met het haakje. Deze feature zal dus absoluut geïntegreerd worden in ons product. Tot slot werd de manier van aanspannen getest, hier waren er 3 verschillende opties. Bij de wearable met gesp bleek de manier van aanspannen redelijk goed maar een groot nadeel is de overblijvende stof die bengelt aan het been van de gebruiker. Bij de wearable met de dubbele riem verliep het aanspannen stroef en onhandig, ook is het niet zo duidelijk hoe er moet aangespannen worden en hoe deze losser kan. Tot slot werden de meeste problemen ondervonden bij de wearable met de BOA-sluiting. Ten eerste was het niet duidelijk dat er op het knopje moest geduwd worden om de sluiting toe te draaien, eens dat duidelijk was ging het aanspannen met het wieltje wel vrij vlot. Hierbij bleek het moeilijk om de wearable goed vast te houden terwijl er gedraaid wordt aan het wieltje. Tenslotte sneden de draadjes van de BOA-sluiting in het been van de gebruikers wat absoluut niet gewenst is.
+
 ### Conclusies en implicaties
 Uit deze anthropometrische analyse en gebruikerstesten kunnen meerdere conclusies getrokken worden om het product te optimaliseren. Enerzijds is er beslist om de 'design for the tall' designstrategie toe te passen en een band van 26,43cm te voorzien die vervolgens aanpasbaar is. Hierdoor is het product voor 95% van de bevolking toegankelijk.
 Anderzijds kan er uit de gebruikerstesten geconcludeerd worden dat er geen ideale manier van aanspannen is, hierdoor wordt het concept van het op maat knippen van de band verder versterkt. Door de toevoeging van het haakje kan de gebruiker zijn op maat gemaakte band openen en sluiten zonder dat hij/zij daarbij zijn schoenen moet uitdoen.
+
+## Develop 2
+### Doelstellingen
+Uit voorgaande gebruikers onderzoeken viel op dat heel wat gebruikers aangeven niet overtuigd te zijn of ze tijd wel gaan nemen om de band correct aan te spannen. De gebruiker geeft daarnaast ook aan zijn gevoel meer te vertrouwen dan de digitale feedback gegeven omtrent de spanning. Uiteindelijk is na een gesprek met mensen van Comate en Niko besloten dat het op spanning brengen van de band niet langer door de gebruiker zelf kan hgedaan worden maar door een professionele, in dit geval een kinesitherapeut. Het doel ligt vanaf nu op het vinden van een systeem dat eenvoudig te gebruiken is door professionelen. De design requirements zullen dus deels aangepast moeten worden naar de noden en behoeften van deze professionelen. 
+
+### Materiaal en methoden
+Vooraleer dergelijk systeem kan ontworpen worden moeten de noden van kinesitherapeuten duidelijk zijn. De Orde der artsen schrijft in hoofdstuk 4, artikel 34 dat artsen geen medicatie mogen produceren noch medicatie mogen verkoop aan patiënten. Deze regel geldt ook voor kinesitherapeuten wat maakt dat iedere band volledig herbruikbaar moet zijn. De band moet wasbaar en herstelbaar zijn. Vooraf gedefinieerde design requirements blijven uiteraard gelden.
+
+Met het gerealiseerde prototype zal een expertinterview gehouden worden waar aan professionelen enkele vragen gesteld zullen worden en waarbij punten zullen moeten gegeven worden op vooraf gedefinieerde heuristieken. Tenslotte zullen usability testen plaatsvinden om de bevindingen van de expertinterviews te bevestigen en verder inzicht te verschaffen in het systeem.   
+
+#### Prototype
+Zoals in onderstaande figuur weergegeven bestaat het nieuwe prototype uit verschillende onderdelen met verschillende fuctionaliteiten.
+1.	De rekker met lus: in de rekker met rubberen inleg (hier niet zichtbaar) is een lus gemaakt zodat deze eenvoudig rondom het haakje kan glijden.
+2.	De clip: Rondom de rekker is een clip geplaatst om het overtollige deel rekker aan vast te maken. Zo hangt dit niet te bengelen tijdens het lopen.
+3.	De sensor houder: In de sensorhouder kan zoals het woord het zegt de sensor geplaatst worden, daarnaast is deze ook voorzien van een haakje (5) en een systeem die de band vast knelt.
+4.	De spanner: de spanner is een plaatje dat de band tegen de sensoraandrukt waardoor deze niet meer kan verplaatsen, door de het plaatje opnieuw te verwijderen is de band opnieuw instelbaar.
+5.	Het haakje
+
+#### Gebruiksprotocol
+Dit is het protocol dat de professional moet volgen om de band correct op maat van de gebruiker in te stellen. Naast de band is hiervoor een dummy van de sensor nodig waar de druk sensor in past, deze geeft zoals eerder beschreven feedback aan de hand van een RGB-led en deze maal ook met een grafiek.
+
+**Stap 1:** Aanspannen 
+Plaats de band rond het been van de patiënt op ongeveer 10cm boven de enkel. Span de rekker aan tot de RGB-led groen gaat branden, doe dit met de dummy en de sensor in de sensor houder maar zonder de spanner zodat de band instelbaar is.
+
+**Stap 2:** Voorlopig bevestigen
+Maak de band los door middel van het haakje terwijl je de rekker op de juiste lengte houdt. Verwijder de dummy en schuif de spanner op zijn plaats, vervolgens plaats je de dummy terug in de houder.
+
+**Stap 3:** Looptest
+Laat de patiënt 2 tot 5 min lopen en controleer of de waarden op de grafiek niet te danig veel afwijken. Dit kan van patiënt tot patiënt verschillen. Indien de waarden te veel uitwijken kan de band bijgeregeld worden of dichter naar de enkel toe verplaatst worden.
+
+**Stap 4:** Definitief bevestigen     
+Wanneer de sensor correct is aangespannen verwijderen we de dummy en plaatsen we de echte sensor in de plaats, de spanner mag indien deze reeds op zijn plaats zit blijven zitten.
+
+#### Expert review
+Ter controle van het protocol werden 2 kinesitherapeuten geïnterviewd (protocol: Deze Link).
+Deze experts moesten bij afloop punten geven op volgende heuristieken:
+-	**Visibility and System Status:** Hoe duidelijk is de feedback van het systeem uit?
+-	**Error Prevention:** Hoe makkelijk kan je fouten maken bij het gebruiken van dit systeem?
+-	**Recognition Rather then Recal:** Hoe goed wijst het system zichzelf uit?
+-	**System reliability:** Hoe betrouwbaar is dit systeem
+-	**Reusability:** Hoe herbruikbaar is dit systeem?
+-	**Help and Documentation:** Wat vindt u van de documentatie die erbij is?
+
+#### Usability tests
+Ook werden 4 testpersonen aan een usability test onderworpen. Deze 4 personen hebben niet de vooropleiding zoals dit bij de experten wel het geval was. Op die manier kunnen zei extra inzicht geven in het ontwerp en mogelijks trends bevestigen die reeds naar boven kwamen in de expertinterviews.
+
+### Resultaten
+#### Expert review
+Het antwoorden van de expertinterviews zijn terug te vinden via DEZE LINK.
+De 2 experten quoteerden de heuristieken als volgt:
+
+#### Usability tests
+Het resultaten van de usabilty tests zijn terug te vinden via DEZE LINK.
+
+### Conclusies en implicaties
+#### Expert review
+Uit de expertinterviews vallen enkele sterke en zwakke punten af te leidien. Globaal gezien zijn de experten zeer enthousiast over het systeem en dan vooral over de feedback en de werking. De vooraf gemaakte assumpties dat een looptest nodig zou zijn om de correcte spanning op de band te verifiëren bevestigden ze met klem. 
+Echter was de werking van hoe de band in elkaar zat niet erg duidelijk en al zeker niet vanop het eerste zicht. Specifiek de sensorhouder en de spanner bleken zichzelf niet uit te wijzen. Deze bevinding kan positief en negatief geïnterpreteerd worden, enerzijds moet de kinesitherapeut wel de werking inzien om het systeem te kunnen gebruiken, anderzijds is het niet de bedoeling dat de gebruiker het systeem nog aanpast nadat de kinesist deze op maat maakte. 
+Daarnaast gaven ze ook nog enkele tips om het systeem gebruiksvriendelijker te maken, bijvoorbeeld een grip punt op de spanner en een lipje aan de band om het eenvoudiger door de gleuf van de sensorhouder te trekken.
+
+#### Usability tests
+Uit de usability tests kwamen min of meer dezelfde conclusies, ook hier werd gewezen op het gebruiksvriendelijker maken van de spanner en de band. Ook voor hen wees het systeem zichzelf niet uit, wat we zoals eerder vermeld op 2 manieren kunnen interpreteren. Net als bij de experten waren ook deze gebruikers wel aangenaam verrast over de functionaliteit van het systeem.
+
 ## Bill of materials
 Het fysiek uitwerken van prototypes zal vooral gebeuren bij de uitwerking van de wearable. Hiervoor werden volgende materialen gebruikt:
 
