@@ -339,7 +339,7 @@ De 2 experten quoteerden de heuristieken als volgt:
 | **System Reliability**  | 7 | / Testen nodig |
 | **Reusability**  | 10 | 8 |
 | **Help & Documentation** | 6 | 3 | 
-<p align="center">
+<p align="left">
 <em>Tabel 3: resultaten scores op heuristieken door experten</em></p>
 
 #### Usability tests
@@ -362,17 +362,36 @@ De laatste developfase, developfase 3, draait rond 'Human Senses'. Er wordt naar
 Vooraleer er getest wordt met gebruikers wordt er een hiërarchische taakanalyse van het product opgesteld. Een gebruikersdoel wordt onderverdeeld in subdoelen en deze subdoelen worden verder onderverdeeld in subtaken. Binnen dit project zijn er meerdere gebruikersdoelen, zo is er het uitvoeren van de drukmeting door een professional, het gebruik van de app om feedback te krijgen tijdens de drukmeting, het assembleren van de wearable indien deze moet gewassen worden en het aandoen van de wearable door de loper. Het valt op dat vooral bij het uitvoeren van de drukmeting heel wat stappen nodig zijn om het doel te bereiken. Om problemen te voorkomen is er een instructievideo voorzien in de app, deze kan gevonden worden door rechtsboven op het hulpicoontje te klikken. In de app zelf zijn er ook een aantal stappen te voltooien voordat de drukmeting kan worden uitgevoerd. Deze stappen kunnen worden aangepast, afhankelijk van de feedback uit de gebruikerstesten. De interacties in de app zijn voornamelijk tactiel, waarbij de gebruiker op het scherm klikt, en visueel, waarbij feedback en knoppen worden geïdentificeerd. Omdat de loper alleen de wearable met het haakje hoeft vast te maken, zijn de stappen die nodig zijn om het gebruikersdoel te bereiken, namelijk het aandoen van de wearable, zeer beperkt. Tijdens de gebruikerstesten zullen gebruikers proberen om deze doelen te bereiken en zal er gekeken worden welke interacties verbeterd moeten worden. Na de optimalisaties worden opnieuw hiërarchische taakanalyses opgesteld.
 
 #### Gebruikerstesten
-De gebruikerstesten (n=4) worden uitgevoerd aan de hand van volgend protocol []. Zoals gezegd zullen de gebruikers worden gevraagd om verschillende gebruikersdoelen te bereiken. Op deze manier doorlopen ze een user-journey en kan worden gezien welke interacties ze uitvoeren. Er wordt gevraagd hoe ze de wearable moeten assembleren, hoe ze de drukmeting uitvoeren en hoe ze de wearable moeten aandoen. Het prototype waarmee getest wordt, is een medium fidelity prototype. Dit is hetzelfde prototype als bij developfase 2. Een toevoeging aan dit prototype is het gebruik van de app om de feedback van de drukmeting weer te geven. Op het scherm zijn bolletjes te zien; centraal staat een grote groene bol, met links en rechts steeds kleiner wordende bolletjes. Hoe verder de bolletjes van de groene centrale bol afstaan, hoe verder de gebruiker is van het bereiken van de juiste spanning. Lichten de bolletjes links van de groene bol op, dan zit de wearable te los. Lichten ze rechts op, dan zit de wearable te strak. Zodra het groene bolletje oplicht, is de perfecte spanning bereikt. Momenteel wordt het veranderen van de bolletjes fictief gedaan door de interviewer, door de slider te verslepen. In de toekomst is het uiteraard de bedoeling dat de bolletjes effectief overeenkomen met de metingen van de drukmeter. In deze eerste versie van de app wordt ook de grafiek van de drukmeting weergegeven. Deze kan door de professional worden gebruikt om tijdens de looptest te zien hoeveel de spanning afwijkt van de perfecte spanning. Op die manier kan de spanning van de band eventueel nog worden aangepast. In een volgende versie zal de grafiek alleen op het computerscherm van de professional te zien zijn.
+De gebruikerstesten (n=4) worden uitgevoerd aan de hand van volgend protocol [^32]. Zoals gezegd zullen de gebruikers worden gevraagd om verschillende gebruikersdoelen te bereiken. Op deze manier doorlopen ze een user-journey en kan worden gezien welke interacties ze uitvoeren. Er wordt gevraagd hoe ze de wearable moeten assembleren, hoe ze de drukmeting uitvoeren en hoe ze de wearable moeten aandoen. Het prototype waarmee getest wordt, is een medium fidelity prototype. Dit is hetzelfde prototype als bij developfase 2. Een toevoeging aan dit prototype is het gebruik van de app om de feedback van de drukmeting weer te geven. Op het scherm zijn bolletjes te zien; centraal staat een grote groene bol, met links en rechts steeds kleiner wordende bolletjes. Hoe verder de bolletjes van de groene centrale bol afstaan, hoe verder de gebruiker is van het bereiken van de juiste spanning. Lichten de bolletjes links van de groene bol op, dan zit de wearable te los. Lichten ze rechts op, dan zit de wearable te strak. Zodra het groene bolletje oplicht, is de perfecte spanning bereikt. Momenteel wordt het veranderen van de bolletjes fictief gedaan door de interviewer, door de slider te verslepen. In de toekomst is het uiteraard de bedoeling dat de bolletjes effectief overeenkomen met de metingen van de drukmeter. In deze eerste versie van de app wordt ook de grafiek van de drukmeting weergegeven. Deze kan door de professional worden gebruikt om tijdens de looptest te zien hoeveel de spanning afwijkt van de perfecte spanning. Op die manier kan de spanning van de band eventueel nog worden aangepast. In een volgende versie zal de grafiek alleen op het computerscherm van de professional te zien zijn.
 
 ### Resultaten
 #### Hiërarchische taakanalyse
-Er zijn verschillende aanpassingen gedaan aan de HTA's om de interacties te optimaliseren en de user-journey te vereenvoudigen. Bij het uitvoeren van de drukmeting is ervoor gekozen om de drukmeter te bevestigen in het bovenplaatje [FOTO]. Hierdoor is er een subdoel minder voor de gebruiker en dus ook minder stappen waarop de gebruiker fouten kan maken. Doordat de pinnen op de achterkant van het bodemplaatje te lang zijn, moet de gebruiker tijdens het fixeren van de band deze eerst losmaken van het been, het bodemplaatje verwijderen en dan pas de band fixeren. Dit werd geoptimaliseerd door de pinnen korter te maken, zodat de band gefixeerd kan worden terwijl deze nog rond het scheenbeen zit. [FOTO VOOR EN NA BODEMPLAATJE]. Deze aanpassing heeft ook een impact op de HTA van het gebruik van de app. Verder werden er nog aanpassingen doorgevoerd in de app, waardoor de gebruiker sneller naar de gewenste scene kan navigeren om de drukmeting uit te voeren. De knoppen 'connect sensor' en 'wearable calibration' zijn vervangen door een 'start drukmeting' knop op het hoofdscherm, wat het eveneens duidelijker maakt voor de gebruiker. Tot slot is ook de aanduiding voor de instructievideo aangepast. Tijdens de gebruikerstesten bleek het niet meteen duidelijk waar deze video te vinden was. Nu wordt deze nadrukkelijk weergegeven op het scherm van de scene voor de drukmeting [VIDEO VAN VERBETERDE APP].
+Er zijn verschillende aanpassingen gedaan aan de HTA's om de interacties te optimaliseren en de user-journey te vereenvoudigen. Bij het uitvoeren van de drukmeting is ervoor gekozen om de drukmeter te bevestigen in het bovenplaatje.
+<p align="center">
+  <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/4e9e9a46-44ec-46ad-a613-067be31e4635" alt="bovenplaatje met drukmeter">
+  <br>
+  <em>Figuur 17: Bovenplaatje met drukmeter erin bevestigd</em>
+</p>
+Hierdoor is er een subdoel minder voor de gebruiker en dus ook minder stappen waarop de gebruiker fouten kan maken. Doordat de pinnen op de achterkant van het bodemplaatje te lang zijn, moet de gebruiker tijdens het fixeren van de band deze eerst losmaken van het been, het bodemplaatje verwijderen en dan pas de band fixeren. Dit werd geoptimaliseerd door de pinnen korter te maken, zodat de band gefixeerd kan worden terwijl deze nog rond het scheenbeen zit. 
+<p align="center">
+  <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/d26503ff-b6f6-4dbf-9638-872c7b857ac6" alt="bodemplaatje">
+  <br>
+  <em>Figuur 18: Bodemplaatje met kortere pinnen</em>
+</p>
+Deze aanpassing heeft ook een impact op de HTA van het gebruik van de app. Verder werden er nog aanpassingen doorgevoerd in de app, waardoor de gebruiker sneller naar de gewenste scene kan navigeren om de drukmeting uit te voeren. De knoppen 'connect sensor' en 'wearable calibration' zijn vervangen door een 'start drukmeting' knop op het hoofdscherm, wat het eveneens duidelijker maakt voor de gebruiker. Tot slot is ook de aanduiding voor de instructievideo aangepast. Tijdens de gebruikerstesten bleek het niet meteen duidelijk waar deze video te vinden was. Nu wordt deze nadrukkelijk weergegeven op het scherm van de scene voor de drukmeting (link naar eerste versie van de app: https://youtube.com/shorts/jntpQ0VLZdQ?feature=share) (link naar verbeterde versie van de app:).
 
 #### Gebruikerstesten
-Uit de gebruikerstesten bleek opnieuw dat het voor de gebruikers niet duidelijk is hoe de wearable in elkaar zit. Vooral het inbrengen van de band in de sensorhouder blijkt een knelpunt te zijn. Daarom werden er bij de tweede iteratie pijltjes toegevoegd die de montage verduidelijken. [FOTO VAN PROTOTYPE MET PIJLTJES]. Dit prototype is getest bij de laatste gebruiker, die bevestigde dat het de montage duidelijker maakte. [LINK NAAR REPORT 4]. Bij de eerste drie gebruikers werd de eerste versie van de app getest, terwijl de nieuwste versie werd getest bij de laatste gebruiker. Deze laatste kon bevestigen dat dankzij de duidelijkere instructievideo het uitvoeren van de drukmeting geen probleem vormde. Tenslotte bleek dat de feedback van de drukmeting zeer duidelijk was en geen aanpassingen meer nodig had. Reports van deze gebruikerstesten: [LINK NAAR REPORTS]
+Uit de gebruikerstesten bleek opnieuw dat het voor de gebruikers niet duidelijk is hoe de wearable in elkaar zit. Vooral het inbrengen van de band in de sensorhouder blijkt een knelpunt te zijn. Daarom werden er bij de tweede iteratie pijltjes toegevoegd die de montage verduidelijken.
+<p align="center">
+  <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/c84f7ee7-7a3a-4d1f-a216-645478c32bfd" alt="prototype met pijltjes">
+  <br>
+  <em>Figuur 19: Prototype met pijltjes</em>
+</p>
+
+Dit prototype is getest bij de laatste gebruiker, die bevestigde dat het de montage duidelijker maakte [^36]. Bij de eerste drie gebruikers werd de eerste versie van de app getest, terwijl de nieuwste versie werd getest bij de laatste gebruiker. Deze laatste kon bevestigen dat dankzij de duidelijkere instructievideo het uitvoeren van de drukmeting geen probleem vormde. Tenslotte bleek dat de feedback van de drukmeting zeer duidelijk was en geen aanpassingen meer nodig had. Reports van deze gebruikerstesten[^33] [^34] [^35] [^36].
 
 ### Conclusies en implicaties
-Uit de taakanalyses en gebruikerstesten kwamen meerdere verbeterpunten naar voren, zoals duidelijkere instructies en het vereenvoudigen van sommige interacties. De toevoeging van de pijltjes aan de sensorhouder en het verkorten van de pinnen van het bodemplaatje zijn implicaties op de wearable, hierdoor werd het gebruik duidelijker en eenvoudiger. In de app werden vooral de interacties vereenvoudigd en de instructievideo duidelijker weergegeven. Tot slot werden de design requirements gedocumenteerd [LINK NAAR DESIGN REQUIREMENTS].
+Uit de taakanalyses en gebruikerstesten kwamen meerdere verbeterpunten naar voren, zoals duidelijkere instructies en het vereenvoudigen van sommige interacties. De toevoeging van de pijltjes aan de sensorhouder en het verkorten van de pinnen van het bodemplaatje zijn implicaties op de wearable, hierdoor werd het gebruik duidelijker en eenvoudiger. In de app werden vooral de interacties vereenvoudigd en de instructievideo duidelijker weergegeven. Tot slot werden de design requirements gedocumenteerd [^15].
 
 ## Algemene conclusie
 
@@ -401,6 +420,7 @@ Als laatste willen we verder focussen op de live feedback, een 4de key component
 
 
 ## Bronnen
+- De Mey, K. (2023). Wat is OnTracx. [PowerPoint slides]. Gepresenteerd tijdens de meeting in de les, Kortijk, België.
 - Etienne, S. (2018, 22 september). Soul Run Free Pro Bio Review: A running coach in your headphones. The Verge. Geraadpleegd op 6 november 2023, van https://www.theverge.com/2018/9/22/17886692/soul-run-free-pro-bio-earbuds-review 
 - Molina, A. (2019, 15 april). Soul Electronics Run Free Pro Bio review - SoundGuys. SoundGuys. Geraadpleegd op 6 november 2023, van https://www.soundguys.com/soul-run-free-pro-bio-review-21587/ 
 - Garmin. (z.d.). Hardloopdynamieksensor | Garmin. Garmin. Geraadpleegd op 6 november 2023, van https://www.garmin.com/nl-BE/p/561205 
@@ -410,7 +430,8 @@ Als laatste willen we verder focussen op de live feedback, een 4de key component
 - RunScribe. (2023, 31 oktober). RunScribe - Wearable IMU - GAIT analysis. Geraadpleegd op 6 november 2023, van https://runscribe.com/ 
 - Sensoria home page. (z.d.). Geraadpleegd op 6 november 2023, van https://www.sensoriafitness.com/
 - Alger, K. (2018, 21 september). 5 of the best form-fixing gadgets to improve your running efficiency and technique. Runner’s World. Geraadpleegd op 6 november 2023, van https://www.runnersworld.com/uk/a776422/best-form-fixing-gadgets-to-improve-your-running-efficiency-and-technique/ 
-- George, L. (2019, 17 oktober). 7 running wearables that will transform the way you move. 20 Fit. Geraadpleegd op 6 november 2023, van https://shapescale.com/blog/fitness-gear/7-running-wearables-transform/ 
+- George, L. (2019, 17 oktober). 7 running wearables that will transform the way you move. 20 Fit. Geraadpleegd op 6 november 2023, van https://shapescale.com/blog/fitness-gear/7-running-wearables-transform/
+- Orde der artsen. (2018). Artikel 34: Integriteit [Webpagina]. Geraadpleegd op 1 april 2024, van https://ordomedic.be/nl/code2018/integriteit/34#:~:text=Artikel%2034&text=De%20arts%20stelt%20de%20belangen,promoot%20medische%20hulpmiddelen%20of%20gezondheidsproducten.
 
 
 ## Bijlagen
@@ -445,3 +466,9 @@ Als laatste willen we verder focussen op de live feedback, een 4de key component
 [^29]: usability test report 2 Develop 2: https://drive.google.com/file/d/10T33OEa6xQjv_pdswnFzApR6N_yoeUeW/view?usp=sharing
 [^30]: usability test report 3 Develop 2: https://drive.google.com/file/d/1CtInHBVPipVYBwzL3Hb9u6E6JVq6UJcJ/view?usp=sharing
 [^31]: usability test report 4 Develop 2: https://drive.google.com/file/d/11mNRkz4ua7i0YyWWFQwfG1j5ncA9AbbR/view?usp=sharing
+[^32]: protocol interaction tests Develop 3: https://drive.google.com/file/d/19jSclKmYd-9Yy8LSLiXTgeETT-s-0s7x/view?usp=sharing
+[^33]: report 1 interaction test Develop 3: https://drive.google.com/file/d/1OutHTIUTfgsq1Vp5TwZ22oTeyu6AAS0Y/view?usp=sharing
+[^34]: report 1 interaction test Develop 3: https://drive.google.com/file/d/1M63ijIzqqOtPc_CfRCGLS9Zi7Ydn_HLx/view?usp=sharing
+[^35]: report 1 interaction test Develop 3: https://drive.google.com/file/d/1f8Hrp1Ix5XuOoazNwSqcXMq9xCe8D36O/view?usp=sharing
+[^36]: report 1 interaction test Develop 3:
+
