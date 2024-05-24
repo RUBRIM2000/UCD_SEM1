@@ -25,7 +25,7 @@ Het model dat wordt toegepast tijdens dit project is de ‘triple diamond’ van
 <p align="center">
   <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/e182623a-a465-46e6-8552-929113b5fef0" alt="Tijdlijn">
   <br>
-  <em>Tijdlijn</em>
+  <em>Figuur 1: Tijdlijn</em>
 </p>
 
 ### Discovery
@@ -34,7 +34,7 @@ Om het probleem te definiëren wordt de informatie die verzameld werd uit de ver
 Dit komt allemaal samen in een “how can we” die, zoals gezegd, de doelgroep en het probleem vastlegt.
 
 ### Definition
-Hierna volgt de definition fase waarin een antwoord gezocht wordt op de vraag: Wat is de oplossing?”. Eerst werd er een creativity lab uitgevoerd in de les, waarbij zoveel mogelijk oplossingen en ideeën werden bedacht. Daarna werd er een brainstorm gedaan om de belangrijkste inzichten van het individuele discovery onderzoek samen te leggen.
+Hierna volgt de definition fase waarin een antwoord gezocht wordt op de vraag: Wat is de oplossing?”. Eerst werd er een creativity lab uitgevoerd in de les, waarbij zoveel mogelijk oplossingen en ideeën werden bedacht. Daarna werd er een brainstorm[^3] gedaan om de belangrijkste inzichten van het individuele discovery onderzoek samen te leggen.
 Tijdens het convergeren wordt er een gebruiksscenario verteld met behulp van een storyboard. Tot slot worden er concept sketches en low-fi prototypes gemaakt, die vervolgens worden getest bij gebruikers.
 
 ### Develop
@@ -75,7 +75,7 @@ Er werden 3 interviews afgenomen waarvan 2 expertinterviews met een kinesitherap
 
 ### Resultaten
 #### Desktopresearch en competitor analysis
-De resultaten van de competitor analysis zijn te zien in tabel 1. We kunnen zien dat de manier van bevestiging vaak verschilt alsook de beste features van de producten. Vier van de zeven producten beschikken over real-time feedback, wat vaak gepaard gaat met het te frequent geven van feedback. Ook moeten deze producten gekoppeld worden aan een sporthorloge of een smartphone om ze te kunnen gebruiken. De prijzen zijn zeer uiteenlopend, gaande van 55 euro voor een product met basisfeatures tot 556 euro voor een product waarbij een analyse in een lab zit inbegrepen. Voor meer uitleg over deze benchmarkanalyse wordt verwezen naar het protocol[^2] en het rapport[^3].
+De resultaten van de competitor analysis zijn te zien in tabel 1. We kunnen zien dat de manier van bevestiging vaak verschilt alsook de beste features van de producten. Vier van de zeven producten beschikken over real-time feedback, wat vaak gepaard gaat met het te frequent geven van feedback. Ook moeten deze producten gekoppeld worden aan een sporthorloge of een smartphone om ze te kunnen gebruiken. De prijzen zijn zeer uiteenlopend, gaande van 55 euro voor een product met basisfeatures tot 556 euro voor een product waarbij een analyse in een lab zit inbegrepen. Voor meer uitleg over deze benchmarkanalyse wordt verwezen naar het protocol[^4] en het rapport[^5].
 
 | ***Name***  | ***Product Type*** | ***Mounting*** | ***Best Feature*** | ***Real-time feedback*** | ***App***| ***Cons*** | ***Price (€)*** |
 | ------------- | ------------- | ----------- | ---------------- | ------------------------ | ---- | -------- | ------------- |
@@ -88,10 +88,11 @@ De resultaten van de competitor analysis zijn te zien in tabel 1. We kunnen zien
 | **Sensoria Socks**  | Smart socks  | On your feet | Personalizing your run (feedback,…) | Yes | Yes | Phone needed to view live data | 278 |
 <p align="center">
 <em>Tabel 1: resultaten competitor analysis</em></p>
+
 #### User en expertinterviews
 Uit de interviews blijkt dat de meeste blessures voorkomen bij recreatieve sporters van boven de 50 jaar. Deze sporters willen te snel en te veel lopen, terwijl ze dit niet meer aankunnen. De huidige behandelingsmethoden beginnen bij hands-on therapie, gevolgd door een rustige opbouw waarbij geluisterd wordt naar het lichaam. Indien er geen klachten zijn, kan de intensiteit verhoogd worden. De opvolging gebeurt bij beide kinesitherapeuten a.d.h.v. een app waar ze gepersonaliseerde oefeningen meegeven met de patiënt. Nadeel is dat er niet gecontroleerd kan worden of de oefening juist is uitgevoerd. De combinatie van subjectieve data en objectieve data (stapgrootte, links-rechts verschil, trunk sway en belasting) is het meest interessant voor de opvolging. Dit zou vooral handig zijn als deze gegevens gestructureerd (in de vorm van grafieken of dergelijke) worden weergegeven in het dashboard en gelinkt zijn aan het patiëntendossier. 
 Om de loper gemotiveerd te houden is het delen en het kunnen vergelijken van activiteiten met vrienden een grote meerwaarde, al is de motivatie om een gezonde levensstijl na te streven even belangrijk. De gebruiker gaf aan dat hij voorstander is van een ‘voice coach’ om feedback te geven tijdens het lopen, al moet de frequentie ervan instelbaar zijn. 
-Zowel de gebruiker als een van de twee kinesisten gaven aan 300 tot 400 euro te willen betalen voor een product die de belasting meet inclusief de app, zolang dit compatibel is met een sporthorloge. Ook bij de interviews wordt verwezen naar de protocols[^4] [^5] en rapporten[^6] [^7].
+Zowel de gebruiker als een van de twee kinesisten gaven aan 300 tot 400 euro te willen betalen voor een product die de belasting meet inclusief de app, zolang dit compatibel is met een sporthorloge. Ook bij de interviews wordt verwezen naar de protocols[^6] [^7] en rapporten[^8] [^9].
 <p align="center">
   <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/dabddc06-f363-4db2-87e4-13b98e4c8909" alt="Feasibility/Desireability canvas">
   <br>
@@ -105,41 +106,71 @@ Na het gedane onderzoek kunnen verschillende conclusies getrokken worden die van
 ## Definition
 
 ### Doestellingen
-Vervolgens gaan we opzoek naar een antwoord op de vraag “Wat is de oplossing?”. Hierbij richten we ons opnieuw op de wearable, die onmisbaar is voor een goede werking van de app. Dit onderdeel van het product is bewust gekozen omdat alles valt of staat met het correct dragen van de sensor. Wanneer de sensor niet correct op het scheenbeen bevestigd zit kunnen de gemeten waarden sterk afwijken van de realiteit. Dit is niet alleen van belang voor de gebruiker maar ook voor de kinesitherapeut die het platform zal gebruiken om de patiënt optimaal op te volgen tijdens het revalidatie traject. Kiné’s geven zelf aan het systeem enkel te zullen gebruiken wanneer ze de garantie krijgen dat de meetwaarden die ze zullen gebruiken betrouwbaar zijn. 
+Vervolgens gaan we opzoek naar een antwoord op de vraag “Wat is de oplossing?”. Hierbij leggen we opnieuw de nadruk op de wearable, die essentieel is voor een optimale werking van de app. Dit onderdeel van het product is bewust gekozen omdat alles valt of staat met het correct dragen van de sensor. Wanneer de sensor niet correct op het scheenbeen is bevestigd, kunnen de gemeten waarden sterk afwijken van de werkelijkheid. Dit is niet alleen van belang voor de gebruiker maar ook voor de kinesitherapeut die het platform zal gebruiken om de patiënt optimaal op te volgen tijdens het revalidatietraject. De kinesisten geven aan het systeem alleen te zullen gebruiken wanneer ze de garantie krijgen dat de meetwaarden betrouwbaar zijn.
 
 ### Materiaal & methoden
-Wanneer gekeken wordt naar hoe de sensor optimaal op het scheenbeen bevestigd wordt is alles terug te brengen naar wrijvingskracht. De wrijvingskracht zal bepalen vanaf welke impact de sensor zich verplaatst ten opzichte van zijn positie, deze verschuiving resulteert direct in vergrote foutmarge op de metingen.
+Wanneer gekeken wordt naar hoe de sensor optimaal op het scheenbeen bevestigd wordt is alles terug te brengen naar wrijvingskracht. De wrijvingskracht zal bepalen vanaf welke impact de sensor zich verplaatst ten opzichte van zijn originele positie, wat resulteert in een grotere foutmarge in de metingen.
 
 Deze wrijvingskracht kunnen we zoals de formule het beschrijft opsplitsen in 2 factoren, de statische wrijvingsconstante en de normaalkracht. 
 F_w = μ_s ∙ F_N      (1)
 
-De statische wrijvingsconstante slaat op de wrijving tussen de band en de huid. De normaalkracht slaat op de kracht die de band en sensor uitoefenen op het been of met andere woorden hoe hard de band spant.
+De statische wrijvingsconstante verwijst naar de wrijving tussen de band en de huid. De normaalkracht duidt op de kracht die de band en sensor uitoefenen op het been, met andere woorden, hoe hard de band spant.
 
 #### De statische wrijvingsconstante
-Bij een lage wrijvingsconstante tussen de band en de huid zal de sensor zicht te veel verplaatsen en zullen de gemeten waarden dus niet betrouwbaar zijn. Daarom is getest met een rubberen inleg die deze wrijving moet verhogen.
-De test is geïnspireerd op een bestaand testprotocol, weergegeven in bijlage 1.
+Bij een lage wrijvingsconstante tussen de band en de huid zal de sensor zich teveel verplaatsen en zullen de gemeten waarden dus niet betrouwbaar zijn. Daarom is getest met een rubberen inleg die deze wrijving moet verhogen.
+De test is geïnspireerd op een bestaand testprotocol[^10].
 Test protocol:
-15cm band wordt telkens op de rand van een bureau gelegd en belast met een gewicht van 750g, aan het andere uiteinde wordt een emmer bevestigd. 2 types band (figuur 2) worden getest: 
+15cm band wordt telkens op de rand van een bureau gelegd en belast met een gewicht van 750g, aan het andere uiteinde wordt een emmer bevestigd. 2 types band (figuur 3) worden getest: 
 
 -	Een klassieke rekker 
 -	Een rekker met rubberen inleg
 De emmer wordt stillaan met water gevuld en wanneer het gewicht begint te schuiven wordt de massa van de gevulde emmer gewogen.
-#### De normaalkracht/spanning
-De spanning van de band bepaalt ook in zeer grote mate of de sensor op zijn plaats blijft zitten. De rekker kan te weinig aangespannen worden en dan zakt de sensor af, maar de rekker kan ook te veel aangespannen worden. Dit zorgt voor dat de bloedtoevoer naar de enkel kan worden afgesneden worden wat de kans op blessures verhoogd door een tekort aan bloed in de voetspieren.
+<p align="center">
+  <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/dae28c56-c7ed-4500-9323-058267db410d" alt="testopstelling">
+  <br>
+  <em>Figuur 2: Testopstelling</em>
+</p>
+<p align="center">
+  <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/3f85cad2-4338-4d29-af52-e26577fb25eb" alt="rekkers">
+  <br>
+  <em>Figuur 3: Rekkers</em>
+</p>
 
-De moeilijkheid bij de normaalkracht is dat iedere gebruiker de band telkens op de juiste spanning moet kunnen brengen. Er dient een systeem te zijn dat voor de gebruiker intuïtief en makkelijk te hanteren is. 
+#### De normaalkracht/spanning
+De spanning van de band bepaalt ook in zeer grote mate of de sensor op zijn plaats blijft zitten. De rekker kan te weinig aangespannen worden, waardoor de sensor afzakt. Maar de rekker kan ook te veel aangespannen worden, waardoor de bloedtoevoer naar de enkel kan worden afgesneden. Dit verhoogt de kans op blessures door een tekort aan bloed in de voetspieren.
+
+De moeilijkheid bij de normaalkracht is dat elke gebruiker de band op juiste spanning moet kunnen brengen. Er dient een systeem te worden ontwikkeld dat voor de gebruiker intuïtief en makkelijk te hanteren is. 
 3 systemen werden getest bij gebruikers:
 
--	Een systeem zonder feedback (benchmark):
-  Hierbij krijgt de gebruiker geen feedback over hoe hard hij of zij de band aanspant maar moet deze zelf bepalen wanneer de rakker volgens hen voldoende hard is aangespannen. Aan de hand van een druk sensor wordt echter wel gemeten welke druk de sensor op het been uitoefent. Op deze manier kan een beeld geschetst worden over hoe continu de gebruiker deze band aanspant maar ook hoe dicht de gebruiker op intuïtieve wijze bij de ideale spanning komt.
-- Een systeem met analoge feedback:
-    Hiervoor ontwikkelden we een nieuw concept dat werkt aan de hand van 2 indicatielijnen op de band. Over de band wordt een plaatje geschoven met 2 gleuven in, het is de bedoeling dat men de band verder aanspant tot de 2 indicatielijnen (in het rood weergegeven) uitlijnen met de voorziene gleuven. Wanneer de lijnen niet overeenkomen met de gleuven zal de band ofwel te zacht of te hard aangespannen zijn.
- - Een systeem met digitale feedback:
-    De druksensor die ook gebruikt wordt bij de testen zonder feedback zal hier opnieuw gebruikt worden maar deze keer ook feedback geven. Aan de hand van een RGB Led kan de gebruiker zien of hij de band te hard, te zacht of precies op de juiste spanning aanspant.
-De 3 systemen werden getest volgens het testprotocol (bijlage 2)
+-	**Een systeem zonder feedback (benchmark):**
+  Hierbij krijgt de gebruiker geen feedback over hoe strak hij of zij de band aantrekt, maar hij/zij moet zelf bepalen wanneer deze volgens hen voldoende strak is aangespannen. Door middel van een druksensor wordt echter wel gemeten welke druk de sensor op het been uitoefent. Op deze manier kan een beeld worden geschetst van hoe continu de gebruiker deze band aanspant, maar ook hoe dicht de gebruiker op intuïtieve wijze bij de ideale spanning komt.
+ 	<p align="center">
+  <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/6b637c24-7385-40c5-9ee5-10cae6c3f5e4" alt="systeem zonder feedback">
+  <br>
+  <em>Figuur 4: Systeem zonder feedback</em>
+</p>
+
+- **Een systeem met analoge feedback:**
+    Hiervoor werd een nieuw concept ontwikkeld dat werkt aan de hand van 2 indicatielijnen op de band. Over de band wordt een plaatje geschoven met 2 gleuven in, het is de bedoeling dat men de band verder aanspant tot de 2 indicatielijnen (in het rood weergegeven) overeenkomen met de voorziene gleuven. Wanneer de lijnen niet overeenkomen met de gleuven zal de band ofwel te zacht of te hard aangespannen zijn.
+  <p align="center">
+  <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/35908880-1f2a-4017-9296-4df3b95212ad" alt="systeem met analoge feedback">
+  <br>
+  <em>Figuur 5: Systeem met analoge feedback</em>
+</p>
+
+ - **Een systeem met digitale feedback:**
+    De druksensor die ook gebruikt wordt bij de testen zonder feedback zal hier opnieuw gebruikt worden, maar die zal deze keer ook feedback geven. Aan de hand van een RGB-led kan de gebruiker zien of hij de band te hard, te zacht of precies op de juiste spanning aanspant.
+   
+   <p align="center">
+  <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/7204a64d-3d2c-45b2-b6f5-06ffbe03220d" alt="systeem met digitale feedback">
+  <br>
+  <em>Figuur 6: Systeem met digitale feedback</em>
+</p>
+
+De 3 systemen werden getest volgens het testprotocol[^11].
 #### Storyboard
-Vooraleer we begonnen met het maken van prototypes, was het essentieel om dieper in te gaan op de vraag “Wat is de oplossing”. Hiervoor zijn we teruggegaan naar de kern van de zaak: wie is de gebruiker en hoe komt deze terecht bij ons product. 
-Uit de prijs van het product en de interviews kunnen we concluderen dat sporters de sensor niet zullen dragen tenzij ze kampen met blessures. Het verhaal begint meestal met een geblesseerd persoon die bij de kinesitherapeut gaat voor revalidatie. Om ons product dus bij de gebruiker te introduceren, zullen we moeten focussen op kinesisten. Voor hen is het belangrijk dat de wearable goed werkt en dat het professioneel dashboard een meerwaarde biedt. Een ander deel van de gebruikers zal bij ons product terechtkomen via mond-tot-mondreclame, om zo toekomstige blessures te vermijden. Voor deze doelgroep is het belangrijk dat de wearable zelfstandig (zonder uitleg van een kinesitherapeut) en correct kan worden aangespannen en dat anderzijds de app gebruiksvriendelijk is.
+Het is essentieel om dieper in te gaan op de vraag “Wat is de oplossing”. Hiervoor zijn we teruggegaan naar de kern van de zaak: wie is de gebruiker en hoe komt deze terecht bij ons product. 
+Uit de prijs van het product en de interviews kunnen we concluderen dat sporters de sensor niet meteen zullen dragen, tenzij ze kampen met blessures. Het verhaal begint meestal met een geblesseerd persoon die bij de kinesitherapeut gaat voor revalidatie. Om het product dus bij de gebruiker te introduceren, zal er gefocust worden op professionals zoals kinesisten. Hieronder is een gebruiksscenario geschetst van het finale concept van dit project door middel van een storyboard. De belangrijkste interacties worden hierin duidelijk.
 
 <p align="center">
   <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/61964aac-cd24-4505-9779-8328a222ccdd" alt="storyboard">
@@ -148,25 +179,30 @@ Uit de prijs van het product en de interviews kunnen we concluderen dat sporters
 </p>
 
 ### Resultaten
-De resultaten en bemerkingen van de afgenomen testen zijn weergegeven in onderstaande alinea’s.
 #### De statische wrijvingsconstante
 Bij het vullen van de emmer begon het gewicht te schuiven bij zeer uiteenlopende waarden.
-De emmer had een leeggewicht van 384g, omdat ook dit al te zwaar bleek te zijn is gewerkt met een pennenzak waar telkens pennen werden bijgestopt. 
-TABEL
-Aangezien de normaalkracht F_N in deze opstelling constant is kan aan de hand van formule 1 afgeleid worden dat de statische wrijvingscoëfficiënt van de rekker met rubberen inleg meer dan 6 keer zo groot is.
+De emmer had een leeggewicht van 384g; omdat ook dit al te zwaar bleek te zijn is er gewerkt met een pennenzak waar steeds meer pennen werden in opgeborgen. 
+| ***Concept***  | ***Gewicht (gram)*** |
+| ------------- | ------------- |
+| **Standaard rekker**  | 188  | Ears |
+| **Rekker met rubberen inlay**  | 1198 |
+<p align="center">
+<em>Tabel 2: resultaten wrijvingstesten</em></p>
+
+Aangezien de normaalkracht F_N in deze opstelling constant is, kan aan de hand van formule 1 afgeleid worden dat de statische wrijvingscoëfficiënt van de rekker met rubberen inleg meer dan 6 keer groter is dan de standaard rekker.
 #### De normaalkracht/spanning
-Uit de bevraging komt de band met digitale bij bijna alle gebruikers als favoriet naar boven. Voornamelijk de duidelijke feedback aan de hand van kleurcodes scoort goed.
+Uit de interviews komt de band met digitale feedback bij bijna alle gebruikers als favoriet naar boven. Voornamelijk de duidelijke feedback door middel van kleurcodes scoort goed.
  
-Een meer uitgebreid inzicht in de antwoorden op de bevraging zijn terug te vinden in bijlage 3
+Een uitgebreidere analyse van de antwoorden op de interviews is terug te vinden in de reports[^12] [^13] [^14].
 
 ### Conclusies & implicaties
 #### De statische wrijvingsconstante
-Uit de resultaten van de statische wrijvingsconstante test kan zeer duidelijk afgeleid worden dat er moet gekozen worden voor een rekker met rubberen inleg. De wrijvingsconstante is meer dan 6 keer zo groot en de sensor zal dus veel beter op zijn plaats blijven zitten dan bij gebruik van een klassieke rekker.
+Uit de resultaten van de statische wrijvingsconstante test kan zeer duidelijk afgeleid worden dat er moet gekozen worden voor een rekker met rubberen inlay. De wrijvingsconstante is meer dan 6 keer groter dan de standaard rekker en de sensor zal dus veel beter op zijn plaats blijven zitten.
 #### De normaalkracht/spanning
-Naast de conclusie dat de band met digitale feedback het meest gebruiksvriendelijk wordt ervaren zijn er nog enkele opmerkelijke meningen uit de test gekomen. Zo bleek er bij alle gebruikers een gevoel van ongemak te ontstaan wanneer ze de band zonder feedback dienden aan te doen. De analoge feedback werd door quasi iedereen als niet voldoende duidelijk ervaren maar vanwege de feedback wel zonder twijfel beter dan de benchmark.
-Een van de gebruikers gaf aan een led bij uitstek de beste oplossing te vinden, lopers zijn namelijk steeds mensen die nog voldoende zien maar niet per se mensen met een voldoende goed gehoor. 
+Naast de conclusie dat de band met digitale feedback als meest gebruiksvriendelijk wordt ervaren, zijn er nog enkele opmerkelijke bevindingen uit de test naar voren gekomen. Zo bleek dat er bij alle gebruikers een gevoel van ongemak ontstond wanneer ze de band zonder feedback moesten aandoen. De analoge feedback werd door quasi iedereen als onvoldoende duidelijk ervaren. Desondanks werd deze oplossing, vanwege de feedback, beter ervaren dan die zonder feedback.
+Een van de gebruikers gaf aan dat de oplossing met de led het beste is; lopers zijn voornamelijk mensen die nog voldoende kunnen zien, maar niet per se mensen met een goed gehoor. 
 Dit kan een belangrijk inzicht bieden in andere aspecten van het systeem.
-Tenslotte viel ook op de het steeds opnieuw instellen of aanspannen van de band voor enkele gebruikers te veel moeite was, een band die niet instelbaar is maar gewoon op maat wordt gemaakt kwam bij een van hen als idee naar boven.
+Tenslotte viel ook op dat het steeds opnieuw instellen of aanspannen van de band voor enkele gebruikers te veel moeite was. Zo kwam er een gebruiker op het idee om de band op maat te laten maken.
 
 ## Develop 1
 ### Doelstellingen
@@ -314,13 +350,17 @@ Als laatste willen we verder focussen op de live feedback, een 4de key component
 
 ## Bijlagen
 [^1]: De Mey, K. (2023). Wat is OnTracx. [PowerPoint slides]. Gepresenteerd tijdens de meeting in de les, Kortijk, België.
-[^2]: https://drive.google.com/file/d/1MV3y32ipnZEfoEKJDSRju2GLiE1Tqw7x/view?usp=drive_link
+[^2]: Innovatrix: https://drive.google.com/file/d/1MV3y32ipnZEfoEKJDSRju2GLiE1Tqw7x/view?usp=drive_link
+[^3]: Brainstorm: https://drive.google.com/file/d/1b5-SRC9vry1JRoN5dqAmx1vkEeve9sD-/view?usp=drive_link
+[^4]: protocol competitor analysis: https://drive.google.com/file/d/1wHGh7CsQYgv2biXCs35QFxxe1GM6f_Dv/view?usp=drive_link
+[^5]: report competitor analysis: https://drive.google.com/file/d/1jjlTNJBltOpXLYm31RzHXCOjIFAlKGUQ/view?usp=drive_link
+[^6]: protocol interview Milan Discovery: https://drive.google.com/file/d/1m1I5E_-V09NOw_wSy9RsEpCx_DURTtM5/view?usp=drive_link
+[^7]: protocol interview Ruben Discovery: https://drive.google.com/file/d/1PUERY7WOe_0lMdr5ibPD2JiIq6wNtUD2/view?usp=drive_link
+[^8]: report interview Milan Discovery: https://drive.google.com/file/d/1AH3_2Y1O2Cm2qCNJkhiGDWLtq_c95EFd/view?usp=drive_link
+[^9]: report interview Rubene Discovery: https://drive.google.com/file/d/17NUr8E6auOlrrevVlJ7KdzkwKCOv1vjS/view?usp=drive_link
+[^10]: protocol wrijvingstest Definition: https://drive.google.com/file/d/19jeL0ZEN-83-99ft4u5FwCuxMYfwXHej/view?usp=sharing
+[^11]: protocol concepttests Definition: https://drive.google.com/file/d/1IaHkj3sAe9eTu9GQcuiDed8aoEXkItHe/view?usp=sharing
+[^12]: report 1 concepttests Definition: https://drive.google.com/file/d/1fSNksWGU855KfythgU_HQNRO4YRoYiyi/view?usp=sharing
+[^13]: report 2 concepttests Definition: https://drive.google.com/file/d/1MPmSvX-WhsuCDyhlgZ8NYXPyFp9DhcGU/view?usp=sharing
+[^14]: report 3 concepttests Definition: https://drive.google.com/file/d/1IreY5sqx2D4tiUg1gdh6wfR_-qc7Gkrf/view?usp=sharing
 
-[^2]: https://drive.google.com/file/d/1wHGh7CsQYgv2biXCs35QFxxe1GM6f_Dv/view?usp=drive_link
-[^3]: https://drive.google.com/file/d/1jjlTNJBltOpXLYm31RzHXCOjIFAlKGUQ/view?usp=drive_link
-[^4]: https://drive.google.com/file/d/1m1I5E_-V09NOw_wSy9RsEpCx_DURTtM5/view?usp=drive_link
-[^5]: https://drive.google.com/file/d/1PUERY7WOe_0lMdr5ibPD2JiIq6wNtUD2/view?usp=drive_link
-[^6]: https://drive.google.com/file/d/1AH3_2Y1O2Cm2qCNJkhiGDWLtq_c95EFd/view?usp=drive_link
-[^7]: https://drive.google.com/file/d/17NUr8E6auOlrrevVlJ7KdzkwKCOv1vjS/view?usp=drive_link
-[^8]: https://drive.google.com/file/d/1b5-SRC9vry1JRoN5dqAmx1vkEeve9sD-/view?usp=drive_link
-[^9]: https://drive.google.com/file/d/1jTKgjvxYkYNi-f5WWU74D0cT7gXYSWQz/view?usp=drive_link
