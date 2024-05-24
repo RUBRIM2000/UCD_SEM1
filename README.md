@@ -258,6 +258,8 @@ Uit de gebruikerstesten bleek opnieuw dat het voor de gebruikers niet duidelijk 
 ### Conclusies en implicaties
 Uit de taakanalyses en gebruikerstesten kwamen meerdere verbeterpunten naar voren, zoals duidelijkere instructies en het vereenvoudigen van sommige interacties. De toevoeging van de pijltjes aan de sensorhouder en het verkorten van de pinnen van het bodemplaatje zijn implicaties op de wearable, hierdoor werd het gebruik duidelijker en eenvoudiger. In de app werden vooral de interacties vereenvoudigd en de instructievideo duidelijker weergegeven. Tot slot werden de design requirements gedocumenteerd [LINK NAAR DESIGN REQUIREMENTS].
 
+## Algemene conclusie
+
 ## Bill of materials
 Het fysiek uitwerken van prototypes zal vooral gebeuren bij de uitwerking van de wearable. Hiervoor werden volgende materialen gebruikt:
 
