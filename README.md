@@ -21,18 +21,25 @@ In dit project zullen alle aspecten worden gevalideerd door middel van gebruiker
 
 
 ## Methdologie
-Het model dat wordt toegepast tijdens dit project is de ‘triple diamond’ van Zendesk. Dit model bestaat uit vier ontwerpfasen: discover, define, develop en deliver. In dit tussentijds rapport wordt er dieper ingegaan op de eerste twee fasen van het model, namelijk de dicovery en de definition fasen.
+Het model dat wordt toegepast tijdens dit project is de ‘triple diamond’ van Zendesk. Dit model bestaat uit vier ontwerpfasen: discover, define, develop en deliver. Alle fasen van dit model worden in dit rapport behandeld.
+<p align="center">
+  <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/e182623a-a465-46e6-8552-929113b5fef0" alt="Tijdlijn">
+  <br>
+  <em>Tijdlijn</em>
+</p>
 
 ### Discovery
-In de discovery fase zijn we op zoek naar een antwoord op de vraag: ‘Wat is het probleem?’. Er wordt gedivergeerd bij het onderzoeken van het probleem en geconvergeerd bij het definiëren van het probleem. Het uiteindelijke doel is het formuleren van een goede “how can we” waarin de doelgroep en het probleem worden vastgelegd. Om dit te bereiken werden er knowledge templates toegepast en activiteiten uitgevoerd. Een van de templates die uitgevoerd werd, is de innovatrix. Om het probleem te onderzoeken werd er eerst een desktop research en een competitor analysis gedaan om de markt beter te begrijpen. Tot slot werden er user interviews en expert interviews afgenomen om de gebruiker beter te leren kennen. Dit wordt allemaal uitgevoerd door middel van een testing protocol en een rapport achteraf. Een voorbeeld van zo’n testing protocol is een topic guide, die dient om het interview in goede banen te leiden.
-Om het probleem te definiëren wordt de informatie die verzameld werd uit de verschillende activiteiten geconvergeerd. De doelgroep wordt bepaald en de belangrijkste inzichten van de gebruikers worden uitgezet in een feasibility/desirability canvas. Uit het marktonderzoek worden de huidige oplossingen en de belangrijkste trends bepaald.
+In de discovery fase is er op zoek gegaan naar een antwoord op de vraag: ‘Wat is het probleem?’. Het uiteindelijke doel is het formuleren van een goede “how can we” waarin de doelgroep en het probleem worden vastgelegd. Om dit te bereiken werden er knowledge templates, zoals de innovatrix[^2], toegepast en activiteiten uitgevoerd. Om het probleem te onderzoeken werd er eerst een desktop research en een competitor analysis gedaan om de markt beter te begrijpen. Tot slot werden er user interviews en expert interviews afgenomen om de gebruiker beter te leren kennen. Dit wordt allemaal uitgevoerd door middel van een testing protocol en een rapport achteraf.
+Om het probleem te definiëren wordt de informatie die verzameld werd uit de verschillende activiteiten geconvergeerd. De doelgroep wordt bepaald en de belangrijkste inzichten van de gebruikers worden uitgezet in een feasibility/desirability canvas.
 Dit komt allemaal samen in een “how can we” die, zoals gezegd, de doelgroep en het probleem vastlegt.
 
 ### Definition
-Hierna volgt de definition fase waarin een antwoord gezocht wordt op de vraag: Wat is de oplossing?”. Ook hier wordt er gedivergeerd tijdens de ideation fase en geconvergeerd bij het vormgeven van de oplossing. 
-Tijdens de ideation fase worden zo veel mogelijk oplossingen en ideeën bedacht. Dit begint bij een in-class ideation waar a.d.h.v. de lotus blossum ideation verschillende deeloplossingen worden bedacht. Daarna werd er een brainstorm gedaan om de belangrijkste inzichten van het individuele discovery onderzoek samen te leggen.
-Tijdens het convergeren wordt er een gebruiksscenario verteld met behulp van een storyboard. Er worden low-fidelity prototypes, concept sketches en wireframes gemaakt om de concepten te testen bij de gebruikers. 
+Hierna volgt de definition fase waarin een antwoord gezocht wordt op de vraag: Wat is de oplossing?”. Eerst werd er een creativity lab uitgevoerd in de les, waarbij zoveel mogelijk oplossingen en ideeën werden bedacht. Daarna werd er een brainstorm gedaan om de belangrijkste inzichten van het individuele discovery onderzoek samen te leggen.
+Tijdens het convergeren wordt er een gebruiksscenario verteld met behulp van een storyboard. Tot slot worden er concept sketches en low-fi prototypes gemaakt, die vervolgens worden getest bij gebruikers.
 
+### Develop
+Uit de feedback van de tussentijdse verdediging bleek dat er te veel aspecten van het OnTracx-project werden behandeld (wearable, real-time feedback in de app, gamification, dashboard voor professionals, etc.), waardoor deze te weinig waren uitgewerkt. Daarom is na de definitionfase besloten om de focus te verleggen naar het ontwikkelen van de wearable en hoe deze zo gebruiksvriendelijk mogelijk kan worden ontworpen.
+De developfase bestaat uit drie deelfasen waarbij gefocust wordt op de fysieke ergonomie, de usability en UX en tot slot de sensoriële ergonomie en bijhorende interacties. Er worden prototypes gemaakt en aan de hand van analyses en gebruikerstesten zal de oplossing steeds meer geoptimaliseerd worden. Het resultaat is een finaal ontwerp van de oplossing.
 
 ## Discovery
 ### Doestellingen
@@ -307,6 +314,8 @@ Als laatste willen we verder focussen op de live feedback, een 4de key component
 
 ## Bijlagen
 [^1]: De Mey, K. (2023). Wat is OnTracx. [PowerPoint slides]. Gepresenteerd tijdens de meeting in de les, Kortijk, België.
+[^2]: https://drive.google.com/file/d/1MV3y32ipnZEfoEKJDSRju2GLiE1Tqw7x/view?usp=drive_link
+
 [^2]: https://drive.google.com/file/d/1wHGh7CsQYgv2biXCs35QFxxe1GM6f_Dv/view?usp=drive_link
 [^3]: https://drive.google.com/file/d/1jjlTNJBltOpXLYm31RzHXCOjIFAlKGUQ/view?usp=drive_link
 [^4]: https://drive.google.com/file/d/1m1I5E_-V09NOw_wSy9RsEpCx_DURTtM5/view?usp=drive_link
