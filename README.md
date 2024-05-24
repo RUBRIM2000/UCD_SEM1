@@ -315,7 +315,7 @@ Het STL-files van de volledige wearable en dummy zijn terug te vinden via deze l
 
 
 #### Expert review
-Ter controle van het protocol werden 2 kinesitherapeuten geïnterviewd (protocol: Deze Link).
+Om de gebruiksprocedure te controleren werden twee kinesisten geïnterviewd. Link naar protocol[^23].
 Deze experts moesten bij afloop punten geven op volgende heuristieken:
 -	**Visibility and System Status:** Hoe duidelijk is de feedback van het systeem uit?
 -	**Error Prevention:** Hoe makkelijk kan je fouten maken bij het gebruiken van dit systeem?
@@ -325,19 +325,29 @@ Deze experts moesten bij afloop punten geven op volgende heuristieken:
 -	**Help and Documentation:** Wat vindt u van de documentatie die erbij is?
 
 #### Usability tests
-Ook werden 4 testpersonen aan een usability test onderworpen. Deze 4 personen hebben niet de vooropleiding zoals dit bij de experten wel het geval was. Op die manier kunnen zei extra inzicht geven in het ontwerp en mogelijks trends bevestigen die reeds naar boven kwamen in de expertinterviews.
+Ook werden 4 testpersonen aan een usability test onderworpen. Deze 4 personen hebben niet de vooropleiding zoals dit bij de experten wel het geval was. Op die manier kunnen zij extra inzicht geven in het ontwerp en mogelijks bevindingen bevestigen die reeds naar boven kwamen in de expertinterviews. Link naar protocol[^24].
 
 ### Resultaten
 #### Expert review
-Het antwoorden van de expertinterviews zijn terug te vinden via DEZE LINK.
+Het antwoorden van de expertinterviews zijn terug te vinden via volgende links[^26] [^27].
 De 2 experten quoteerden de heuristieken als volgt:
+| ***Heuristics***  | ***Expert 1*** | ***Expert 2*** |
+| ------------- | ------------- | ----------- | 
+| **Visibility & system status**  | 8  | 9 |
+| **Error Prevention**  | 7  | 8 |
+| **Recognition Rather Than Recall**  | 7  | 5 |
+| **System Reliability**  | 7 | / Testen nodig |
+| **Reusability**  | 10 | 8 |
+| **Help & Documentation** | 6 | 3 | 
+<p align="center">
+<em>Tabel 3: resultaten scores op heuristieken door experten</em></p>
 
 #### Usability tests
-Het resultaten van de usabilty tests zijn terug te vinden via DEZE LINK.
+De resultaten van de usabilty tests zijn terug te vinden via deze links[^28] [^29] [^30] [^31].
 
 ### Conclusies en implicaties
 #### Expert review
-Uit de expertinterviews vallen enkele sterke en zwakke punten af te leidien. Globaal gezien zijn de experten zeer enthousiast over het systeem en dan vooral over de feedback en de werking. De vooraf gemaakte assumpties dat een looptest nodig zou zijn om de correcte spanning op de band te verifiëren bevestigden ze met klem. 
+Uit de expertinterviews vallen enkele sterke en zwakke punten af te leiden. Globaal gezien zijn de experten zeer enthousiast over het systeem en dan vooral over de feedback en de werking. De vooraf gemaakte assumpties dat een looptest nodig zou zijn om de correcte spanning op de band te verifiëren bevestigden ze met klem. 
 Echter was de werking van hoe de band in elkaar zat niet erg duidelijk en al zeker niet vanop het eerste zicht. Specifiek de sensorhouder en de spanner bleken zichzelf niet uit te wijzen. Deze bevinding kan positief en negatief geïnterpreteerd worden, enerzijds moet de kinesitherapeut wel de werking inzien om het systeem te kunnen gebruiken, anderzijds is het niet de bedoeling dat de gebruiker het systeem nog aanpast nadat de kinesist deze op maat maakte. 
 Daarnaast gaven ze ook nog enkele tips om het systeem gebruiksvriendelijker te maken, bijvoorbeeld een grip punt op de spanner en een lipje aan de band om het eenvoudiger door de gleuf van de sensorhouder te trekken.
 
@@ -429,3 +439,9 @@ Als laatste willen we verder focussen op de live feedback, een 4de key component
 [^23]: protocol expertreview Develop 2: https://drive.google.com/file/d/1YuBjbtdYMK4UHUx1W5S2uZ0zwaUDNFOf/view?usp=sharing
 [^24]: protcol usability testes Develop 2: https://drive.google.com/file/d/1-ePkM79NEO9WDhytGWuOTmqYT1eqnrvM/view?usp=sharing
 [^25]: Link naar alle STL-files: https://drive.google.com/drive/folders/1hmEfo-gLLVtM0-jGU2Ee1byHQV_EXLIO?usp=sharing
+[^26]: expert review report 1 Develop 2: https://drive.google.com/file/d/13BtOuCHYZ8xK3q9j22VW_-xFYxYlAu64/view?usp=sharing
+[^27]: expert review report 2 Develop 2: https://drive.google.com/file/d/1gw7CmEqENKas49DA3ixNHUUo8uNIPy7o/view?usp=sharing
+[^28]: usability test report 1 Develop 2: https://drive.google.com/file/d/1QLfKxiJAfwgvhHkpXarFcKco6sy9kOkO/view?usp=sharing
+[^29]: usability test report 2 Develop 2: https://drive.google.com/file/d/10T33OEa6xQjv_pdswnFzApR6N_yoeUeW/view?usp=sharing
+[^30]: usability test report 3 Develop 2: https://drive.google.com/file/d/1CtInHBVPipVYBwzL3Hb9u6E6JVq6UJcJ/view?usp=sharing
+[^31]: usability test report 4 Develop 2: https://drive.google.com/file/d/11mNRkz4ua7i0YyWWFQwfG1j5ncA9AbbR/view?usp=sharing
