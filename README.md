@@ -9,6 +9,12 @@
 
 Afgelopen academiejaar verdiepten we ons in OnTracx, een start-up van UGent die met een innovatief concept op de proppen komt rond het revalideren en voorkomen van loopblessures. In de eerste fase werd voornamelijk naar valkuilen binnen het concept van de start-up gezocht. Uiteindelijk zou de wearable de grootste valkuil zijn, aangezien het hele concept staat of valt bij correcte sensorwaarden. In de definition fase werd gekeken hoe men de band voor iedere gebruiker passend kon maken. In semester 2 werd de volledige develop fase doorlopen, in dit deel wordt de verdere uitwerking van het product in detail omschreven.
 
+<p align="center">
+  <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/f9689242-ddba-413d-b48e-bc5b8381cc98" alt="Hero Image">
+  <br>
+  <em>Hero image</em>
+</p>
+
 ## Introductie
 
 Wereldwijd zijn er 110 miljoen lopers, waarvan 50 miljoen last heeft van blessures (De Mey, 2023)[^1]. Ondanks de vele oplossingen die diverse merken bieden dalen deze cijfers niet, de oplossing moet dus elders gezocht worden. OnTracx komt met een vernieuwende aanpak waarbij de kern van het probleem, volgens hen, centraal staat: het verminderen van de impact op de botten. OnTracx heeft al grotendeels de grote lijnen uitgestippeld, maar toch zijn nog enkele valkuilen opgemerkt. 
