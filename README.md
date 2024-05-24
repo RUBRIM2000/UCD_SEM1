@@ -265,7 +265,7 @@ Hoe ze de wearables moesten sluiten kon op twee manieren, er is enerzijds het pr
 
 ### Conclusies en implicaties
 Uit deze antropometrische analyse en gebruikerstesten kunnen meerdere conclusies getrokken worden om het product te optimaliseren. Enerzijds is er beslist om de 'design for the tall' designstrategie toe te passen en een band van 26,43cm te voorzien die vervolgens aanpasbaar is. Hierdoor is het product voor 95% van de bevolking toegankelijk.
-Anderzijds kan er uit de gebruikerstesten geconcludeerd worden dat er geen ideale manier van aanspannen is, de BOA-sluiting en de gesp kwamen wel naar voren als favoriet. Door de toevoeging van het haakje kan de gebruiker zijn op maat gemaakte band openen en sluiten zonder dat hij/zij daarbij zijn schoenen moet uitdoen.
+Anderzijds kan er uit de gebruikerstesten geconcludeerd worden dat er geen ideale manier van aanspannen is, de BOA-sluiting en de gesp kwamen wel naar voren als favoriet. Door de toevoeging van het haakje kan de gebruiker zijn op maat gemaakte band openen en sluiten zonder dat hij/zij daarbij zijn schoenen moet uitdoen. De design requirements worden gedocumenteerd en zijn te vinden via volgende link[^15].
 
 ## Develop 2
 ### Doelstellingen
