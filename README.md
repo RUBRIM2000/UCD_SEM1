@@ -11,13 +11,13 @@ Afgelopen semester verdiepten we ons in OnTracx, een start-up van UGent die met 
 
 ## Introductie
 
-Wereldwijd zijn er 110 miljoen lopers, waarvan 50 miljoen last heeft van blessures[^1]. Ondanks de vele oplossingen die diverse merken bieden dalen deze cijfers niet, de oplossing moet dus elders gezocht worden. OnTracx komt met een vernieuwende aanpak waarbij de kern van het probleem, volgens hen, centraal staat: het verminderen van de impact op de botten. OnTracx zette ons al voor een groot deel op weg, maar hier en daar zagen wij toch nog enkele valkuilen. 
+Wereldwijd zijn er 110 miljoen lopers, waarvan 50 miljoen last heeft van blessures (De Mey, 2023)[^1]. Ondanks de vele oplossingen die diverse merken bieden dalen deze cijfers niet, de oplossing moet dus elders gezocht worden. OnTracx komt met een vernieuwende aanpak waarbij de kern van het probleem, volgens hen, centraal staat: het verminderen van de impact op de botten. OnTracx heeft al grotendeels de grote lijnen uitgestippeld, maar toch zijn nog enkele valkuilen opgemerkt. 
 
 > "Wereldwijd zijn er 110 miljoen lopers, waarvan 50 miljoen last heeft van blessures."
 
-Wij zullen ons binnen deze designstudie focussen op het uitwerken van de wearable waarin de sensor verwerkt zit en een app voor het visualiseren van de data. Voor de wearable gaan we opzoek naar allerhande methoden waarmee de sensor aan het scheenbeen bevestigd kan worden. Daarbij is het belangrijk dat de sensor niet kan bewegen en dat we tegelijkertijd de doorbloeding van het been niet afsnijden. Voor een nauwkeurige en betrouwbare meting is het cruciaal dat de sensor correct gedragen wordt en dat de gebruiker deze dus ook zelf op een correcte manier kan aanbrengen.
+Het hele project van OnTracx staat of valt met nauwkeurige metingen van de belasting. Daarom ligt de focus tijdens deze ontwerpstudie op het uitwerken van de wearable waarin de sensor verwerkt zit. Er wordt hiervoor op zoek gegaan naar allerhande methoden om deze op een gebruiksvriendelijke manier te kunnen sluiten en aan te spannen. Daarbij is het belangrijk dat de sensor niet kan bewegen en dat we tegelijkertijd de doorbloeding van het been niet afsnijden. Om dit te realiseren zal er worden gebruikgemaakt van een drukmeting, hierdoor zal duidelijk worden wanneer de juiste spanning bereikt is. Voor een nauwkeurige en betrouwbare meting is het essentieel dat de sensor correct gedragen wordt en dat de gebruiker deze dus ook zelf op een correcte manier kan aanbrengen. Vandaar dat er gezocht wordt naar een methode om dit te kunnen garanderen. Om snel en duidelijk aan te geven wanneer de juiste spanning is bereikt, wordt onderzocht hoe de data uit de drukmeting het best gevisualiseerd kan worden. 
 
-Voor het visualiseren van de data gaan we opzoek naar een gebruiksvriendelijke applicatie waarbij de focus ligt op het revalidatieproces enerzijds en het gemotiveerd houden van de gebruiker anderzijds. Dit laatste zullen we proberen met behulp van gamificatie zodat de gebruiker steeds een doel heeft om naar toe te werken en zichzelf kan vergelijken met andere gebruikers. Op deze manier proberen we het revalidatieproces dragelijker te maken. 
+In dit project zullen alle aspecten worden gevalideerd door middel van gebruikerstesten, interviews, expert reviews, etc. De feedback van de gebruikers zal leiden tot onderbouwde designbeslissingen en goed gedocumenteerde design requirements.
 
 
 ## Methdologie
@@ -79,13 +79,17 @@ De resultaten van de competitor analysis zijn te zien in tabel 1. We kunnen zien
 | **Wahoo Tickr Run HRM**  | Heart Rate monitor  | Around your chest | Compatible with running apps | No | No | Very basic running analysis | 55 |
 | **Runscribe Shoe Clip** | Shoe clip full of sensors  | Clipped to your shoelaces | A lot of data | Yes | Yes | Expensive | 556 |
 | **Sensoria Socks**  | Smart socks  | On your feet | Personalizing your run (feedback,…) | Yes | Yes | Phone needed to view live data | 278 |
-
+<p align="center">
+<em>Tabel 1: resultaten competitor analysis</em></p>
 #### User en expertinterviews
 Uit de interviews blijkt dat de meeste blessures voorkomen bij recreatieve sporters van boven de 50 jaar. Deze sporters willen te snel en te veel lopen, terwijl ze dit niet meer aankunnen. De huidige behandelingsmethoden beginnen bij hands-on therapie, gevolgd door een rustige opbouw waarbij geluisterd wordt naar het lichaam. Indien er geen klachten zijn, kan de intensiteit verhoogd worden. De opvolging gebeurt bij beide kinesitherapeuten a.d.h.v. een app waar ze gepersonaliseerde oefeningen meegeven met de patiënt. Nadeel is dat er niet gecontroleerd kan worden of de oefening juist is uitgevoerd. De combinatie van subjectieve data en objectieve data (stapgrootte, links-rechts verschil, trunk sway en belasting) is het meest interessant voor de opvolging. Dit zou vooral handig zijn als deze gegevens gestructureerd (in de vorm van grafieken of dergelijke) worden weergegeven in het dashboard en gelinkt zijn aan het patiëntendossier. 
 Om de loper gemotiveerd te houden is het delen en het kunnen vergelijken van activiteiten met vrienden een grote meerwaarde, al is de motivatie om een gezonde levensstijl na te streven even belangrijk. De gebruiker gaf aan dat hij voorstander is van een ‘voice coach’ om feedback te geven tijdens het lopen, al moet de frequentie ervan instelbaar zijn. 
 Zowel de gebruiker als een van de twee kinesisten gaven aan 300 tot 400 euro te willen betalen voor een product die de belasting meet inclusief de app, zolang dit compatibel is met een sporthorloge. Ook bij de interviews wordt verwezen naar de protocols[^4] [^5] en rapporten[^6] [^7].
-
-![Feasibility-Desireability canvas](https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/dabddc06-f363-4db2-87e4-13b98e4c8909)
+<p align="center">
+  <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/dabddc06-f363-4db2-87e4-13b98e4c8909" alt="Feasibility/Desireability canvas">
+  <br>
+  <em>Feasibility/Desireability canvas</em>
+</p>
 
 
 ### Conclusies & implicaties
@@ -130,7 +134,11 @@ De 3 systemen werden getest volgens het testprotocol (bijlage 2)
 Vooraleer we begonnen met het maken van prototypes, was het essentieel om dieper in te gaan op de vraag “Wat is de oplossing”. Hiervoor zijn we teruggegaan naar de kern van de zaak: wie is de gebruiker en hoe komt deze terecht bij ons product. 
 Uit de prijs van het product en de interviews kunnen we concluderen dat sporters de sensor niet zullen dragen tenzij ze kampen met blessures. Het verhaal begint meestal met een geblesseerd persoon die bij de kinesitherapeut gaat voor revalidatie. Om ons product dus bij de gebruiker te introduceren, zullen we moeten focussen op kinesisten. Voor hen is het belangrijk dat de wearable goed werkt en dat het professioneel dashboard een meerwaarde biedt. Een ander deel van de gebruikers zal bij ons product terechtkomen via mond-tot-mondreclame, om zo toekomstige blessures te vermijden. Voor deze doelgroep is het belangrijk dat de wearable zelfstandig (zonder uitleg van een kinesitherapeut) en correct kan worden aangespannen en dat anderzijds de app gebruiksvriendelijk is.
 
-![storyboard_finaal](https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/47c9790b-1542-4155-a509-7ab265db5837)
+<p align="center">
+  <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/61964aac-cd24-4505-9779-8328a222ccdd" alt="storyboard">
+  <br>
+  <em>Storyboard van het finale concept</em>
+</p>
 
 ### Resultaten
 De resultaten en bemerkingen van de afgenomen testen zijn weergegeven in onderstaande alinea’s.
@@ -298,7 +306,7 @@ Als laatste willen we verder focussen op de live feedback, een 4de key component
 
 
 ## Bijlagen
-[^1]: Uit presentatie Kristof de Mey
+[^1]: De Mey, K. (2023). Wat is OnTracx. [PowerPoint slides]. Gepresenteerd tijdens de meeting in de les, Kortijk, België.
 [^2]: https://drive.google.com/file/d/1wHGh7CsQYgv2biXCs35QFxxe1GM6f_Dv/view?usp=drive_link
 [^3]: https://drive.google.com/file/d/1jjlTNJBltOpXLYm31RzHXCOjIFAlKGUQ/view?usp=drive_link
 [^4]: https://drive.google.com/file/d/1m1I5E_-V09NOw_wSy9RsEpCx_DURTtM5/view?usp=drive_link
