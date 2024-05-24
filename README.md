@@ -189,7 +189,7 @@ De emmer had een leeggewicht van 384g; omdat ook dit al te zwaar bleek te zijn i
 | ------------- | ------------- |
 | **Standaard rekker**  | 188  | Ears |
 | **Rekker met rubberen inlay**  | 1198 |
-<p align="center">
+<p align="left">
 <em>Tabel 2: resultaten wrijvingstesten</em></p>
 
 Aangezien de normaalkracht F_N in deze opstelling constant is, kan aan de hand van formule 1 afgeleid worden dat de statische wrijvingscoëfficiënt van de rekker met rubberen inleg meer dan 6 keer groter is dan de standaard rekker.
