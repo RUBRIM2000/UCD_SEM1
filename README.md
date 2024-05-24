@@ -357,7 +357,7 @@ Als laatste willen we verder focussen op de live feedback, een 4de key component
 [^6]: protocol interview Milan Discovery: https://drive.google.com/file/d/1m1I5E_-V09NOw_wSy9RsEpCx_DURTtM5/view?usp=drive_link
 [^7]: protocol interview Ruben Discovery: https://drive.google.com/file/d/1PUERY7WOe_0lMdr5ibPD2JiIq6wNtUD2/view?usp=drive_link
 [^8]: report interview Milan Discovery: https://drive.google.com/file/d/1AH3_2Y1O2Cm2qCNJkhiGDWLtq_c95EFd/view?usp=drive_link
-[^9]: report interview Rubene Discovery: https://drive.google.com/file/d/17NUr8E6auOlrrevVlJ7KdzkwKCOv1vjS/view?usp=drive_link
+[^9]: report interview Ruben Discovery: https://drive.google.com/file/d/17NUr8E6auOlrrevVlJ7KdzkwKCOv1vjS/view?usp=drive_link
 [^10]: protocol wrijvingstest Definition: https://drive.google.com/file/d/19jeL0ZEN-83-99ft4u5FwCuxMYfwXHej/view?usp=sharing
 [^11]: protocol concepttests Definition: https://drive.google.com/file/d/1IaHkj3sAe9eTu9GQcuiDed8aoEXkItHe/view?usp=sharing
 [^12]: report 1 concepttests Definition: https://drive.google.com/file/d/1fSNksWGU855KfythgU_HQNRO4YRoYiyi/view?usp=sharing
