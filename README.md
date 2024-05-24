@@ -7,7 +7,7 @@
 
 ## Samenvatting
 
-Afgelopen semester verdiepten we ons in OnTracx, een start-up van UGent die met een innovatief concept op de proppen komt rond het revalideren en voorkomen van loopblessures. We definieerden de probleemstelling en zochten constructief naar oplossingen. In dit tussentijds verslag wordt inzicht gegeven in hoe de tot nu toe gevormde concepten en prototypes tot stand kwamen. Het vooraf gedane onderzoek wordt toegelicht en de gemaakte prototypes verduidelijkt.
+Afgelopen academiejaar verdiepten we ons in OnTracx, een start-up van UGent die met een innovatief concept op de proppen komt rond het revalideren en voorkomen van loopblessures. In de eerste fase werd voornamelijk naar valkuilen binnen het concept van de start-up gezocht. Uiteindelijk zou de wearable de grootste valkuil zijn, aangezien het hele concept staat of valt bij correcte sensorwaarden. In de definition fase werd gekeken hoe men de band voor iedere gebruiker passend kon maken. In semester 2 werd de volledige develop fase doorlopen, in dit deel wordt de verdere uitwerking van het product in detail omschreven.
 
 ## Introductie
 
