@@ -96,7 +96,7 @@ Zowel de gebruiker als een van de twee kinesisten gaven aan 300 tot 400 euro te 
 <p align="center">
   <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/dabddc06-f363-4db2-87e4-13b98e4c8909" alt="Feasibility/Desireability canvas">
   <br>
-  <em>Feasibility/Desireability canvas</em>
+  <em>Figuur 2: Feasibility/Desireability canvas</em>
 </p>
 
 
@@ -121,7 +121,7 @@ De statische wrijvingsconstante verwijst naar de wrijving tussen de band en de h
 Bij een lage wrijvingsconstante tussen de band en de huid zal de sensor zich teveel verplaatsen en zullen de gemeten waarden dus niet betrouwbaar zijn. Daarom is getest met een rubberen inleg die deze wrijving moet verhogen.
 De test is geïnspireerd op een bestaand testprotocol[^10].
 Test protocol:
-15cm band wordt telkens op de rand van een bureau gelegd en belast met een gewicht van 750g, aan het andere uiteinde wordt een emmer bevestigd. 2 types band (figuur 3) worden getest: 
+15cm band wordt telkens op de rand van een bureau gelegd en belast met een gewicht van 750g, aan het andere uiteinde wordt een emmer bevestigd. 2 types band (figuur 4) worden getest: 
 
 -	Een klassieke rekker 
 -	Een rekker met rubberen inleg
@@ -129,12 +129,12 @@ De emmer wordt stillaan met water gevuld en wanneer het gewicht begint te schuiv
 <p align="center">
   <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/dae28c56-c7ed-4500-9323-058267db410d" alt="testopstelling">
   <br>
-  <em>Figuur 2: Testopstelling</em>
+  <em>Figuur 3: Testopstelling</em>
 </p>
 <p align="center">
   <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/3f85cad2-4338-4d29-af52-e26577fb25eb" alt="rekkers">
   <br>
-  <em>Figuur 3: Rekkers</em>
+  <em>Figuur 4: Rekkers</em>
 </p>
 
 #### De normaalkracht/spanning
@@ -149,7 +149,7 @@ De moeilijkheid bij de normaalkracht is dat elke gebruiker de band op juiste spa
 <p align="center">
   <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/6b637c24-7385-40c5-9ee5-10cae6c3f5e4" alt="systeem zonder feedback">
   <br>
-  <em>Figuur 4: Systeem zonder feedback</em>
+  <em>Figuur 5: Systeem zonder feedback</em>
 </p>
 
 - **Een systeem met analoge feedback:**
@@ -158,7 +158,7 @@ De moeilijkheid bij de normaalkracht is dat elke gebruiker de band op juiste spa
 <p align="center">
   <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/35908880-1f2a-4017-9296-4df3b95212ad" alt="systeem met analoge feedback">
   <br>
-  <em>Figuur 5: Systeem met analoge feedback</em>
+  <em>Figuur 6: Systeem met analoge feedback</em>
 </p>
 
  - **Een systeem met digitale feedback:**
@@ -167,7 +167,7 @@ De moeilijkheid bij de normaalkracht is dat elke gebruiker de band op juiste spa
 <p align="center">
   <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/7204a64d-3d2c-45b2-b6f5-06ffbe03220d" alt="systeem met digitale feedback">
   <br>
-  <em>Figuur 6: Systeem met digitale feedback</em>
+  <em>Figuur 7: Systeem met digitale feedback</em>
 </p>
 
 De 3 systemen werden getest volgens het testprotocol[^11].
@@ -178,7 +178,7 @@ Uit de prijs van het product en de interviews kunnen we concluderen dat sporters
 <p align="center">
   <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/61964aac-cd24-4505-9779-8328a222ccdd" alt="storyboard">
   <br>
-  <em>Storyboard van het finale concept</em>
+  <em>Figuur 8: Storyboard van het finale concept</em>
 </p>
 
 ### Resultaten
@@ -222,36 +222,36 @@ Er is een prototype gemaakt met een gesloten band en een gesp om deze aan te spa
 <p align="center">
   <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/30604347-47d8-46aa-bc02-0bfd5bae2f61" alt="prototype gesp">
   <br>
-  <em>Prototype gesp</em>
+  <em>Figuur 9: Prototype gesp</em>
 </p>
 <p align="center">
   <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/aab1e746-de94-40ee-a95f-d65402061866" alt="skihandschoen">
   <br>
-  <em>Skihandschoen waarvan de gesp afkomstig is</em>
+  <em>Figuur 10: Skihandschoen waarvan de gesp afkomstig is</em>
 </p>
 
 Er is een prototype waarvan er een stuk van een hartslagmeter is afgeknipt, deze kan aangespannen worden met een dubbele riem. De band wordt geopend en gesloten met een haakje dat er aangenaaid is, hierdoor moet de maat slechts 1 keer ingesteld worden en kan deze daarna telkens geopend en gesloten worden met het haakje. 
 <p align="center">
   <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/30868aa8-1f01-4312-bf85-ee25e97a2246" alt="prototype haakje en dubbele riem">
   <br>
-  <em>Prototype met haakje en dubbeke riem</em>
+  <em>Figuur 11: Prototype met haakje en dubbeke riem</em>
 </p>
 <p align="center">
   <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/b1c8dca9-73f6-4e5c-9dce-15a1f04862fa" alt="hartslagmeter">
   <br>
-  <em>Hartslagmeter waarvan het prototype afkomstig is</em>
+  <em>Figuur 12: Hartslagmeter waarvan het prototype afkomstig is</em>
 </p>
 
 Tot slot is er een prototype waarbij gebruikgemaakt wordt van een BOA-sluiting. De BOA-sluiting is afgeknipt van een oud paar fietsschoenen en deze werden vastgenaaid op een lintje stof zodat er een gesloten band gevormd wordt.
 <p align="center">
   <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/1632cb5e-898a-4c37-8f76-6f68a4099b88" alt="prototype met boa sluiting">
   <br>
-  <em>Prototype met BOA-sluiting</em>
+  <em>Figuur 13: Prototype met BOA-sluiting</em>
 </p>
 <p align="center">
   <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/92a3b5d5-4f61-482c-8ca9-6c7bdbef7f4d" alt="fietsschoen">
   <br>
-  <em>Fietsschoen waarvan de BOA-sluiting afkomstig is</em>
+  <em>Figuur 14: Fietsschoen waarvan de BOA-sluiting afkomstig is</em>
 </p>
 
 
@@ -269,35 +269,50 @@ Anderzijds kan er uit de gebruikerstesten geconcludeerd worden dat er geen ideal
 
 ## Develop 2
 ### Doelstellingen
-Uit voorgaande gebruikerstesten viel op dat heel wat gebruikers aangeven niet overtuigd te zijn of ze tijd wel gaan nemen om de band correct aan te spannen. De gebruiker geeft daarnaast ook aan zijn gevoel meer te vertrouwen dan de digitale feedback gegeven omtrent de spanning. Uiteindelijk is na een gesprek met mensen van Comate en Niko besloten dat het op spanning brengen van de band niet langer door de gebruiker zelf kan hgedaan worden maar door een professionele, in dit geval een kinesitherapeut. Het doel ligt vanaf nu op het vinden van een systeem dat eenvoudig te gebruiken is door professionelen. De design requirements zullen dus deels aangepast moeten worden naar de noden en behoeften van deze professionelen. 
+Uit eerdere gebruikerstesten bleek dat veel gebruikers twijfelen of ze wel de tijd zullen nemen om de band correct aan te spannen. Bovendien geeft de gebruiker aan zijn eigen gevoel meer te vertrouwen dan de digitale feedback met betrekking tot de spanning.Na een gesprek met medewerkers van Comate en Niko is uiteindelijk besloten dat het aanbrengen van de juiste spanning in de band niet langer door de gebruiker zelf kan worden gedaan, maar door een professional, zoals een kinesitherapeut of podoloog. De focus ligt vanaf nu op het vinden van een systeem dat eenvoudig te gebruiken is door professionals. De design requirements zullen dus deels aangepast moeten worden naar de eisen en wensen van deze professionelen.
 
 ### Materiaal en methoden
-Vooraleer dergelijk systeem kan ontworpen worden moeten de noden van kinesitherapeuten duidelijk zijn. De Orde der artsen schrijft in hoofdstuk 4, artikel 34 dat artsen geen medicatie mogen produceren noch medicatie mogen verkoop aan patiënten. Deze regel geldt ook voor kinesitherapeuten wat maakt dat iedere band volledig herbruikbaar moet zijn. De band moet wasbaar en herstelbaar zijn. Vooraf gedefinieerde design requirements blijven uiteraard gelden.
+Voordat een dergelijk systeem kan worden ontworpen, moeten de eisen en wensen van de professionals duidelijk worden vastgesteld. De Orde der artsen schrijft in hoofdstuk 4, artikel 34 dat artsen geen medicatie mogen produceren noch medicatie mogen verkoop aan patiënten(Orde der artsen, 2018)[^22]. Deze regel geldt ook voor kinesitherapeuten, wat ervoor zorgt dat iedere band volledig herbruikbaar moet zijn. De band zal dus wasbaar en aanpasbaar moeten zijn. Vooraf gedefinieerde design requirements[^15] blijven uiteraard gelden.
 
-Met het gerealiseerde prototype zal een expertinterview gehouden worden waar aan professionelen enkele vragen gesteld zullen worden en waarbij punten zullen moeten gegeven worden op vooraf gedefinieerde heuristieken. Tenslotte zullen usability testen plaatsvinden om de bevindingen van de expertinterviews te bevestigen en verder inzicht te verschaffen in het systeem.   
+Met het gerealiseerde prototype zal een expertinterview worden gehouden waarbij professionals enkele vragen zullen worden gesteld De experten zullen punten moeten toekennen aan vooraf gedefinieerde heuristieken. Tenslotte zullen usability testen plaatsvinden om de bevindingen van de expertinterviews te bevestigen en verder inzicht te verschaffen in het systeem en wat de gebruiker ervan vindt. Link naar protocol expert review[^23]. Link naar protocol usability testen[^24].  
 
 #### Prototype
-Zoals in onderstaande figuur weergegeven bestaat het nieuwe prototype uit verschillende onderdelen met verschillende fuctionaliteiten.
+Zoals in figuur 15 weergegeven, bestaat het nieuwe prototype uit verschillende onderdelen met verschillende fuctionaliteiten.
 1.	De rekker met lus: in de rekker met rubberen inleg (hier niet zichtbaar) is een lus gemaakt zodat deze eenvoudig rondom het haakje kan glijden.
 2.	De clip: Rondom de rekker is een clip geplaatst om het overtollige deel rekker aan vast te maken. Zo hangt dit niet te bengelen tijdens het lopen.
 3.	De sensor houder: In de sensorhouder kan zoals het woord het zegt de sensor geplaatst worden, daarnaast is deze ook voorzien van een haakje (5) en een systeem die de band vast knelt.
 4.	De spanner: de spanner is een plaatje dat de band tegen de sensorhouder aandrukt waardoor deze niet meer kan verplaatsen, door het plaatje opnieuw te verwijderen is de band opnieuw instelbaar.
 5.	Het haakje
+<p align="center">
+  <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/9869f205-32c7-4d59-8dcf-4fee78757a41" alt="Prototype develop 2">
+  <br>
+  <em>Figuur 15: Prototype develop 2</em>
+</p>
 
 #### Gebruiksprotocol
-Dit is het protocol dat de professional moet volgen om de band correct op maat van de gebruiker in te stellen. Naast de band is hiervoor een dummy van de sensor nodig waar de druk sensor in past, deze geeft zoals eerder beschreven feedback aan de hand van een RGB-led en deze maal ook met een grafiek.
+Dit is het protocol dat de professional moet volgen om de band correct op maat van de gebruiker in te stellen. Naast de band is hiervoor een dummy van de sensor nodig, waarin de druksensor past. Zoals eerder beschreven, geeft deze sensor feedback met behulp van een RGB-led en dit keer ook met een grafiek.
 
-**Stap 1:** Aanspannen 
+<p align="center">
+  <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/bb74dd45-0d3a-4151-8bc1-4f0552214197" alt="Sensordummy">
+  <br>
+  <em>Figuur 16: Sensordummy met boven- en bodemplaatje waar de druksensor in bevestigd wordt</em>
+</p>
+
+**Stap 1: Aanspannen**
 Plaats de band rond het been van de patiënt op ongeveer 10cm boven de enkel. Span de rekker aan tot de RGB-led groen gaat branden, doe dit met de dummy en de sensor in de sensor houder maar zonder de spanner zodat de band instelbaar is.
 
-**Stap 2:** Voorlopig bevestigen
+**Stap 2: Voorlopig bevestigen**
 Maak de band los door middel van het haakje terwijl je de rekker op de juiste lengte houdt. Verwijder de dummy en schuif de spanner op zijn plaats, vervolgens plaats je de dummy terug in de houder.
 
-**Stap 3:** Looptest
+**Stap 3: Looptest**
 Laat de patiënt 2 tot 5 min lopen en controleer of de waarden op de grafiek niet te danig veel afwijken. Dit kan van patiënt tot patiënt verschillen. Indien de waarden te veel uitwijken kan de band bijgeregeld worden of dichter naar de enkel toe verplaatst worden.
 
-**Stap 4:** Definitief bevestigen     
+**Stap 4: Definitief bevestigen** 
 Wanneer de sensor correct is aangespannen verwijderen we de dummy en plaatsen we de echte sensor in de plaats, de spanner mag indien deze reeds op zijn plaats zit blijven zitten.
+
+De begeleide filmpjes voor al deze stappen zijn terug te vinden via volgende link: https://youtu.be/KHiOjnsXP4o.
+Het STL-files van de volledige wearable en dummy zijn terug te vinden via deze link[^25].
+
 
 #### Expert review
 Ter controle van het protocol werden 2 kinesitherapeuten geïnterviewd (protocol: Deze Link).
@@ -410,3 +425,7 @@ Als laatste willen we verder focussen op de live feedback, een 4de key component
 [^19]: report 2 fysieke ergonomie test Develop 1: https://drive.google.com/file/d/1ybBpL4jTeQeP3s6BjhY_ei0IeatBJZhL/view?usp=sharing
 [^20]: report 3 fysieke ergonomie test Develop 1: https://drive.google.com/file/d/192tbNJnfO9MCWqrIpPvJbfqYHZ_nhoOO/view?usp=sharing
 [^21]: report 4 fysieke ergonomie test Develop 1: https://drive.google.com/file/d/1vhZPG9o-GIXEPIoKeTjllEztJ10_HLHy/view?usp=sharing
+[^22]: Orde der artsen. (2018). Artikel 34: Integriteit [Webpagina]. Geraadpleegd op 1 april 2024, van https://ordomedic.be/nl/code2018/integriteit/34#:~:text=Artikel%2034&text=De%20arts%20stelt%20de%20belangen,promoot%20medische%20hulpmiddelen%20of%20gezondheidsproducten.
+[^23]: protocol expertreview Develop 2: https://drive.google.com/file/d/1YuBjbtdYMK4UHUx1W5S2uZ0zwaUDNFOf/view?usp=sharing
+[^24]: protcol usability testes Develop 2: https://drive.google.com/file/d/1-ePkM79NEO9WDhytGWuOTmqYT1eqnrvM/view?usp=sharing
+[^25]: Link naar alle STL-files: https://drive.google.com/drive/folders/1hmEfo-gLLVtM0-jGU2Ee1byHQV_EXLIO?usp=sharing
