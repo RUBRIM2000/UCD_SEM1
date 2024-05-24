@@ -145,7 +145,8 @@ De moeilijkheid bij de normaalkracht is dat elke gebruiker de band op juiste spa
 
 -	**Een systeem zonder feedback (benchmark):**
   Hierbij krijgt de gebruiker geen feedback over hoe strak hij of zij de band aantrekt, maar hij/zij moet zelf bepalen wanneer deze volgens hen voldoende strak is aangespannen. Door middel van een druksensor wordt echter wel gemeten welke druk de sensor op het been uitoefent. Op deze manier kan een beeld worden geschetst van hoe continu de gebruiker deze band aanspant, maar ook hoe dicht de gebruiker op intuïtieve wijze bij de ideale spanning komt.
- 	<p align="center">
+
+<p align="center">
   <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/6b637c24-7385-40c5-9ee5-10cae6c3f5e4" alt="systeem zonder feedback">
   <br>
   <em>Figuur 4: Systeem zonder feedback</em>
@@ -153,7 +154,8 @@ De moeilijkheid bij de normaalkracht is dat elke gebruiker de band op juiste spa
 
 - **Een systeem met analoge feedback:**
     Hiervoor werd een nieuw concept ontwikkeld dat werkt aan de hand van 2 indicatielijnen op de band. Over de band wordt een plaatje geschoven met 2 gleuven in, het is de bedoeling dat men de band verder aanspant tot de 2 indicatielijnen (in het rood weergegeven) overeenkomen met de voorziene gleuven. Wanneer de lijnen niet overeenkomen met de gleuven zal de band ofwel te zacht of te hard aangespannen zijn.
-  <p align="center">
+
+<p align="center">
   <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/35908880-1f2a-4017-9296-4df3b95212ad" alt="systeem met analoge feedback">
   <br>
   <em>Figuur 5: Systeem met analoge feedback</em>
@@ -162,7 +164,7 @@ De moeilijkheid bij de normaalkracht is dat elke gebruiker de band op juiste spa
  - **Een systeem met digitale feedback:**
     De druksensor die ook gebruikt wordt bij de testen zonder feedback zal hier opnieuw gebruikt worden, maar die zal deze keer ook feedback geven. Aan de hand van een RGB-led kan de gebruiker zien of hij de band te hard, te zacht of precies op de juiste spanning aanspant.
    
-   <p align="center">
+<p align="center">
   <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/7204a64d-3d2c-45b2-b6f5-06ffbe03220d" alt="systeem met digitale feedback">
   <br>
   <em>Figuur 6: Systeem met digitale feedback</em>
