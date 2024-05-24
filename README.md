@@ -205,7 +205,7 @@ Uit de resultaten van de statische wrijvingsconstante test kan zeer duidelijk af
 Naast de conclusie dat de band met digitale feedback als meest gebruiksvriendelijk wordt ervaren, zijn er nog enkele opmerkelijke bevindingen uit de test naar voren gekomen. Zo bleek dat er bij alle gebruikers een gevoel van ongemak ontstond wanneer ze de band zonder feedback moesten aandoen. De analoge feedback werd door quasi iedereen als onvoldoende duidelijk ervaren. Desondanks werd deze oplossing, vanwege de feedback, beter ervaren dan die zonder feedback.
 Een van de gebruikers gaf aan dat de oplossing met de led het beste is; lopers zijn voornamelijk mensen die nog voldoende kunnen zien, maar niet per se mensen met een goed gehoor. 
 Dit kan een belangrijk inzicht bieden in andere aspecten van het systeem.
-Tenslotte viel ook op dat het steeds opnieuw instellen of aanspannen van de band voor enkele gebruikers te veel moeite was. Zo kwam er een gebruiker op het idee om de band op maat te laten maken.
+Tenslotte viel ook op dat het steeds opnieuw instellen of aanspannen van de band voor enkele gebruikers te veel moeite was. Zo kwam er een gebruiker op het idee om de band op maat te laten maken. De belangrijkste inzichten werden gedocumenteerd in de design requirements[^15].
 
 ## Develop 1
 ### Doelstellingen
@@ -366,4 +366,5 @@ Als laatste willen we verder focussen op de live feedback, een 4de key component
 [^12]: report 1 concepttests Definition: https://drive.google.com/file/d/1fSNksWGU855KfythgU_HQNRO4YRoYiyi/view?usp=sharing
 [^13]: report 2 concepttests Definition: https://drive.google.com/file/d/1MPmSvX-WhsuCDyhlgZ8NYXPyFp9DhcGU/view?usp=sharing
 [^14]: report 3 concepttests Definition: https://drive.google.com/file/d/1IreY5sqx2D4tiUg1gdh6wfR_-qc7Gkrf/view?usp=sharing
+[^15]: Design requiremetns: https://docs.google.com/spreadsheets/d/1iGADVxJSK1JoBgBKZvWEBh5SpYmDUdK2/edit?usp=sharing&ouid=104531495302844941125&rtpof=true&sd=true
 
