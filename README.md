@@ -112,6 +112,7 @@ Vervolgens gaan we opzoek naar een antwoord op de vraag “Wat is de oplossing?�
 Wanneer gekeken wordt naar hoe de sensor optimaal op het scheenbeen bevestigd wordt is alles terug te brengen naar wrijvingskracht. De wrijvingskracht zal bepalen vanaf welke impact de sensor zich verplaatst ten opzichte van zijn originele positie, wat resulteert in een grotere foutmarge in de metingen.
 
 Deze wrijvingskracht kunnen we zoals de formule het beschrijft opsplitsen in 2 factoren, de statische wrijvingsconstante en de normaalkracht. 
+
 F_w = μ_s ∙ F_N      (1)
 
 De statische wrijvingsconstante verwijst naar de wrijving tussen de band en de huid. De normaalkracht duidt op de kracht die de band en sensor uitoefenen op het been, met andere woorden, hoe hard de band spant.
