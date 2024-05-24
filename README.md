@@ -209,26 +209,63 @@ Tenslotte viel ook op dat het steeds opnieuw instellen of aanspannen van de band
 
 ## Develop 1
 ### Doelstellingen
-Tijdens de develop fase wordt er een antwoord gezocht op de vraag: 'Hoe moet de oplossing eruit zien?'. Dit gebeurt aan de hand van 3 develop fasen waarbij gefocust wordt op: 'Human Body', 'Human Mind' en 'Human Senses'. Bij developfase 1 wordt er gekeken naar de 'Human Body' en zal er met behulp van gebruikerstesten en een anthropometrische analyse gezocht worden naar optimalisaties op vlak van fysieke ergonomie. Tijdens deze fase zullen we testen op de grootte van de wearable en de manier waarop deze gesloten en aangespannen wordt. Op basis van de antwoorden van de gebruikers wordt het ontwerp aangepast en verbeterd.
+Tijdens de develop fase wordt er een antwoord gezocht op de vraag: 'Hoe moet de oplossing eruit zien?'. Dit gebeurt aan de hand van 3 develop fasen waarbij gefocust wordt op: 'Human Body', 'Human Mind' en 'Human Senses'. Bij developfase 1 wordt er gekeken naar de 'Human Body' en zal er met behulp van gebruikerstesten en een antropometrische analyse gezocht worden naar optimalisaties op vlak van fysieke ergonomie. Tijdens deze fase zullen we testen op de grootte van de wearable en de manier waarop deze gesloten en aangespannen wordt. Op basis van de antwoorden van de gebruikers wordt het ontwerp aangepast en verbeterd.
 
 ### Materiaal en methoden
-#### Anthropometrische analyse
-Bij de anthropometrische analyse werd er gekeken naar de belangrijkste maten voor het ontwerpen van de wearable. Blijkt dat voor onze challenge enkel de omtrek van het scheenbeen van belang is. Aangezien deze maat niet in de anthropometrische databases te vinden was werd er beslist om de analyse toe te passen op basis van een steekproef in de klas waarbij de omtrek van het scheenbeen werd gemeten. De steekproef bestond uit een groep van 24 mensen tussen 19 en 22 jaar, waarvan de mannen in de overgrote meerderheid waren. De meest geschikte ontwerpstrategie (design for x) wordt bepaald en op basis van de data-analyse worden er ontwerpbeslissingen gemaakt.
+#### Antropometrische analyse
+Bij de antropometrische analyse werd er gekeken naar de belangrijkste maten voor het ontwerpen van de wearable. Blijkt dat voor deze challenge enkel de omtrek van het scheenbeen van belang is. Aangezien deze maat niet in de antropometrische databases te vinden was, werd er beslist om de analyse toe te passen op basis van een steekproef in de klas waarbij de omtrek van het scheenbeen werd gemeten. De steekproef bestond uit een groep van 24 mensen tussen 19 en 22 jaar, waarvan de mannen in de overgrote meerderheid waren. De meest geschikte ontwerpstrategie (design for x) wordt bepaald en op basis van de data-analyse worden er ontwerpbeslissingen gemaakt.
 
 #### Gebruikerstesten
-Verder zijn er bij 4 personen gebruikerstesten uitgevoerd met als focus het optimaliseren van de fysieke ergonomie. De focus bij deze testen lag op de manier van aanspannen van de wearable en het sluiten ervan. Er zijn hiervoor 3 prototypes gemaakt elk met verschillende sluit- en spansystemen. Er is een prototype gemaakt met een gesloten band en een gesp om deze aan te spannen, deze is van een skihandschoen afgeknipt. Er is een prototype waarvan er een stuk van een hartslagmeter is afgeknipt, deze kan aangespannen worden met een dubbele riem. De band wordt geopend en gesloten met een haakje dat er aangenaaid is, hierdoor moet de maat slechts 1 keer ingesteld worden en kan deze daarna telkens geopend en gesloten worden met het haakje. Tot slot is er een prototype waarbij gebruikgemaakt wordt van een BOA-sluiting. De BOA-sluiting is afgeknipt van een oud paar fietsschoenen en deze werden vastgenaaid op een lintje stof zodat er een gesloten band gevormd wordt.
+Verder zijn er bij 4 personen gebruikerstesten (n=4) uitgevoerd met als doel het optimaliseren van de fysieke ergonomie. De focus bij deze testen lag op de manier van aanspannen van de wearable en het sluiten ervan. Er zijn hiervoor 3 prototypes gemaakt elk met verschillende sluit- en spansystemen. Link naar protocol[^16].
+
+Er is een prototype gemaakt met een gesloten band en een gesp om deze aan te spannen, deze is van een skihandschoen afgeknipt.
+<p align="center">
+  <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/30604347-47d8-46aa-bc02-0bfd5bae2f61" alt="prototype gesp">
+  <br>
+  <em>Prototype gesp</em>
+</p>
+<p align="center">
+  <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/aab1e746-de94-40ee-a95f-d65402061866" alt="skihandschoen">
+  <br>
+  <em>Skihandschoen waarvan de gesp afkomstig is</em>
+</p>
+
+Er is een prototype waarvan er een stuk van een hartslagmeter is afgeknipt, deze kan aangespannen worden met een dubbele riem. De band wordt geopend en gesloten met een haakje dat er aangenaaid is, hierdoor moet de maat slechts 1 keer ingesteld worden en kan deze daarna telkens geopend en gesloten worden met het haakje. 
+<p align="center">
+  <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/30868aa8-1f01-4312-bf85-ee25e97a2246" alt="prototype haakje en dubbele riem">
+  <br>
+  <em>Prototype met haakje en dubbeke riem</em>
+</p>
+<p align="center">
+  <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/b1c8dca9-73f6-4e5c-9dce-15a1f04862fa" alt="hartslagmeter">
+  <br>
+  <em>Hartslagmeter waarvan het prototype afkomstig is</em>
+</p>
+
+Tot slot is er een prototype waarbij gebruikgemaakt wordt van een BOA-sluiting. De BOA-sluiting is afgeknipt van een oud paar fietsschoenen en deze werden vastgenaaid op een lintje stof zodat er een gesloten band gevormd wordt.
+<p align="center">
+  <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/1632cb5e-898a-4c37-8f76-6f68a4099b88" alt="prototype met boa sluiting">
+  <br>
+  <em>Prototype met BOA-sluiting</em>
+</p>
+<p align="center">
+  <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/92a3b5d5-4f61-482c-8ca9-6c7bdbef7f4d" alt="fietsschoen">
+  <br>
+  <em>Fietsschoen waarvan de BOA-sluiting afkomstig is</em>
+</p>
+
 
 ### Resultaten
-#### Anthropometrische analyse
-Het doel van ons project is om een band van een bepaalde lengte te laten knippen op maat door een 'professional'. Vandaar dat we zijn uitgekomen op volgende designstrategie: design for the tall. Uit de steekproef is gebleken dat de gemiddelde omtrek van het scheenbeen 22,86cm is met een standaardafwijking van 2,17cm. We kiezen ervoor dat de lengte van de band die we leveren aan de 'professional' reikt tot P95. Hierdoor is ons product voor een groot deel van de bevolking toegankelijk maar sluiten we de extreme hoge waarden uit om kosten en verliezen te besparen. De lengte van de band zal dus maximaal 26,43cm zijn, deze wordt dan door de 'professional' op maat geknipt en kan die dus voor alle gebruikers met een scheenbeenomtrek kleiner of gelijk aan 26,43cm gebruikt worden.
+#### Antropometrische analyse
+Op basis van de resultaten van de steekproef is er gekozen voor volgende designstrategie: design for the tall. Uit de steekproef is gebleken dat de gemiddelde omtrek van het scheenbeen 22,86cm is met een standaardafwijking van 2,17cm. De lengte van de band zal reiken tot P95, en dan aanpasbaar zijn voor elke gebruiker. Hierdoor is ons product voor een groot deel van de bevolking toegankelijk maar worden de extreme hoge waarden uitgesloten om kosten en verliezen te besparen. De lengte van de band zal dus maximaal 26,43cm zijn, deze zal aanpasbaar zijn en kan dus voor alle gebruikers met een scheenbeenomtrek kleiner of gelijk aan 26,43cm gebruikt worden. Link naar analyse van de steekproef[^17].
 
 #### Gebruikerstesten
 Uit de gebruikerstesten zijn verschillende dingen duidelijk geworden op basis van de feedback van de gebruikers. Eerst en vooral ging de voorkeur qua vormgeving naar de wearable met haakje en dubbele riem, maar de andere twee wearables waren meer quick & dirty waardoor we kritisch moeten staan tegenover deze feedback.
-Hoe ze de wearables moesten sluiten kon op twee manieren, er is enerzijds het prototype met het haakje en anderzijds de twee prototypes waarbij je de wearable rond je voet moet doen om deze te kunnen bevestigen aan je scheenbeen. De gebruikers waren het unaniem eens over de manier van aandoen en kozen resoluut voor de optie met het haakje. Deze feature zal dus absoluut geïntegreerd worden in ons product. Tot slot werd de manier van aanspannen getest, hier waren er 3 verschillende opties. Bij de wearable met gesp bleek de manier van aanspannen redelijk goed maar een groot nadeel is de overblijvende stof die bengelt aan het been van de gebruiker. Bij de wearable met de dubbele riem verliep het aanspannen stroef en onhandig, ook is het niet zo duidelijk hoe er moet aangespannen worden en hoe deze losser kan. Tot slot werden de meeste problemen ondervonden bij de wearable met de BOA-sluiting. Ten eerste was het niet duidelijk dat er op het knopje moest geduwd worden om de sluiting toe te draaien, eens dat duidelijk was ging het aanspannen met het wieltje wel vrij vlot. Hierbij bleek het moeilijk om de wearable goed vast te houden terwijl er gedraaid wordt aan het wieltje. Tenslotte sneden de draadjes van de BOA-sluiting in het been van de gebruikers wat absoluut niet gewenst is.
+Hoe ze de wearables moesten sluiten kon op twee manieren, er is enerzijds het prototype met het haakje en anderzijds de twee prototypes waarbij je de wearable rond je voet moet doen om deze te kunnen bevestigen aan je scheenbeen. De gebruikers waren het unaniem eens over de manier van aandoen en kozen resoluut voor de optie met het haakje. Deze feature zal dus absoluut geïntegreerd worden in ons product. Tot slot werd de manier van aanspannen getest, hier waren er 3 verschillende opties. Bij de wearable met gesp bleek de manier van aanspannen redelijk goed maar een groot nadeel is de overblijvende stof die bengelt aan het been van de gebruiker. Bij de wearable met de dubbele riem verliep het aanspannen stroef en onhandig, ook is het niet zo duidelijk hoe er moet aangespannen worden en hoe deze losser kan. Tot slot werden de meeste problemen ondervonden bij de wearable met de BOA-sluiting. Ten eerste was het niet duidelijk dat er op het knopje moest geduwd worden om de sluiting toe te draaien, eens dat duidelijk was ging het aanspannen met het wieltje wel vrij vlot. Hierbij bleek het moeilijk om de wearable goed vast te houden terwijl er gedraaid wordt aan het wieltje. Tenslotte sneden de draadjes van de BOA-sluiting in het been van de gebruikers wat absoluut niet gewenst is. Link naar reports van gebruikerstesten[^18] [^19] [^20] [^21].
 
 ### Conclusies en implicaties
-Uit deze anthropometrische analyse en gebruikerstesten kunnen meerdere conclusies getrokken worden om het product te optimaliseren. Enerzijds is er beslist om de 'design for the tall' designstrategie toe te passen en een band van 26,43cm te voorzien die vervolgens aanpasbaar is. Hierdoor is het product voor 95% van de bevolking toegankelijk.
-Anderzijds kan er uit de gebruikerstesten geconcludeerd worden dat er geen ideale manier van aanspannen is, hierdoor wordt het concept van het op maat knippen van de band verder versterkt. Door de toevoeging van het haakje kan de gebruiker zijn op maat gemaakte band openen en sluiten zonder dat hij/zij daarbij zijn schoenen moet uitdoen.
+Uit deze antropometrische analyse en gebruikerstesten kunnen meerdere conclusies getrokken worden om het product te optimaliseren. Enerzijds is er beslist om de 'design for the tall' designstrategie toe te passen en een band van 26,43cm te voorzien die vervolgens aanpasbaar is. Hierdoor is het product voor 95% van de bevolking toegankelijk.
+Anderzijds kan er uit de gebruikerstesten geconcludeerd worden dat er geen ideale manier van aanspannen is, de BOA-sluiting en de gesp kwamen wel naar voren als favoriet. Door de toevoeging van het haakje kan de gebruiker zijn op maat gemaakte band openen en sluiten zonder dat hij/zij daarbij zijn schoenen moet uitdoen.
 
 ## Develop 2
 ### Doelstellingen
@@ -367,4 +404,9 @@ Als laatste willen we verder focussen op de live feedback, een 4de key component
 [^13]: report 2 concepttests Definition: https://drive.google.com/file/d/1MPmSvX-WhsuCDyhlgZ8NYXPyFp9DhcGU/view?usp=sharing
 [^14]: report 3 concepttests Definition: https://drive.google.com/file/d/1IreY5sqx2D4tiUg1gdh6wfR_-qc7Gkrf/view?usp=sharing
 [^15]: Design requiremetns: https://docs.google.com/spreadsheets/d/1iGADVxJSK1JoBgBKZvWEBh5SpYmDUdK2/edit?usp=sharing&ouid=104531495302844941125&rtpof=true&sd=true
-
+[^16]: protocol fysieke ergonomie test Develop 1: https://drive.google.com/file/d/17XYh_JO_GjCk8g6aMVpJncWcSUWI1Rpc/view?usp=sharing
+[^17]: analyse steekproef Develop 1: https://docs.google.com/spreadsheets/d/1dfp82gCfqAKlyUgWzPSJSQePwe9WFY8h/edit?usp=sharing&ouid=104531495302844941125&rtpof=true&sd=true
+[^18]: report 1 fysieke ergonomie test Develop 1: https://drive.google.com/file/d/1YoYJV58Poh1C11cC7PnlUD2nj2j3-C0m/view?usp=sharing
+[^19]: report 2 fysieke ergonomie test Develop 1: https://drive.google.com/file/d/1ybBpL4jTeQeP3s6BjhY_ei0IeatBJZhL/view?usp=sharing
+[^20]: report 3 fysieke ergonomie test Develop 1: https://drive.google.com/file/d/192tbNJnfO9MCWqrIpPvJbfqYHZ_nhoOO/view?usp=sharing
+[^21]: report 4 fysieke ergonomie test Develop 1: https://drive.google.com/file/d/1vhZPG9o-GIXEPIoKeTjllEztJ10_HLHy/view?usp=sharing
