@@ -366,6 +366,26 @@ De laatste developfase, developfase 3, draait rond 'Human Senses'. Er wordt naar
 ### Materiaal en methoden
 #### Hiërarchische taakanalyse
 Vooraleer er getest wordt met gebruikers wordt er een hiërarchische taakanalyse van het product opgesteld. Een gebruikersdoel wordt onderverdeeld in subdoelen en deze subdoelen worden verder onderverdeeld in subtaken. Binnen dit project zijn er meerdere gebruikersdoelen, zo is er het uitvoeren van de drukmeting door een professional, het gebruik van de app om feedback te krijgen tijdens de drukmeting, het assembleren van de wearable indien deze moet gewassen worden en het aandoen van de wearable door de loper. Het valt op dat vooral bij het uitvoeren van de drukmeting heel wat stappen nodig zijn om het doel te bereiken. Om problemen te voorkomen is er een instructievideo voorzien in de app, deze kan gevonden worden door rechtsboven op het hulpicoontje te klikken. In de app zelf zijn er ook een aantal stappen te voltooien voordat de drukmeting kan worden uitgevoerd. Deze stappen kunnen worden aangepast, afhankelijk van de feedback uit de gebruikerstesten. De interacties in de app zijn voornamelijk tactiel, waarbij de gebruiker op het scherm klikt, en visueel, waarbij feedback en knoppen worden geïdentificeerd. Omdat de loper alleen de wearable met het haakje hoeft vast te maken, zijn de stappen die nodig zijn om het gebruikersdoel te bereiken, namelijk het aandoen van de wearable, zeer beperkt. Tijdens de gebruikerstesten zullen gebruikers proberen om deze doelen te bereiken en zal er gekeken worden welke interacties verbeterd moeten worden. Na de optimalisaties worden opnieuw hiërarchische taakanalyses opgesteld.
+<p align="center">
+  <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/f4c53788-db25-408c-b722-3f71346d1d64" alt="HTA drukmeting">
+  <br>
+  <em>Figuur 17: Hiërarchische taakanalyse voor uitvoeren van de drukmeting</em>
+</p>
+<p align="center">
+  <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/f0531c73-ba43-4b68-8069-c12b32b2f757" alt="HTA app">
+  <br>
+  <em>Figuur 18: Hiërarchische taakanalyse voor het gebruik van de app</em>
+</p>
+<p align="center">
+  <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/9a260716-1da1-42e7-8954-5718ee1138b4" alt="HTA assembleren van de wearable">
+  <br>
+  <em>Figuur 19: Hiërarchische taakanalyse voor het assembleren van de wearable</em>
+</p>
+<p align="center">
+  <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/327d803e-951f-4094-b401-37d327577068" alt="HTA voor loper">
+  <br>
+  <em>Figuur 20: Hiërarchische taakanalyse voor de loper</em>
+</p>
 
 #### Gebruikerstesten
 De gebruikerstesten (n=4) worden uitgevoerd aan de hand van volgend protocol [^32]. Zoals gezegd zullen de gebruikers worden gevraagd om verschillende gebruikersdoelen te bereiken. Op deze manier doorlopen ze een user-journey en kan worden gezien welke interacties ze uitvoeren. Er wordt gevraagd hoe ze de wearable moeten assembleren, hoe ze de drukmeting uitvoeren en hoe ze de wearable moeten aandoen. Het prototype waarmee getest wordt, is een medium fidelity prototype. Dit is hetzelfde prototype als bij developfase 2. Een toevoeging aan dit prototype is het gebruik van de app om de feedback van de drukmeting weer te geven. Op het scherm zijn bolletjes te zien; centraal staat een grote groene bol, met links en rechts steeds kleiner wordende bolletjes. Hoe verder de bolletjes van de groene centrale bol afstaan, hoe verder de gebruiker is van het bereiken van de juiste spanning. Lichten de bolletjes links van de groene bol op, dan zit de wearable te los. Lichten ze rechts op, dan zit de wearable te strak. Zodra het groene bolletje oplicht, is de perfecte spanning bereikt. Momenteel wordt het veranderen van de bolletjes fictief gedaan door de interviewer, door de slider te verslepen. In de toekomst is het uiteraard de bedoeling dat de bolletjes effectief overeenkomen met de metingen van de drukmeter. In deze eerste versie van de app wordt ook de grafiek van de drukmeting weergegeven. Deze kan door de professional worden gebruikt om tijdens de looptest te zien hoeveel de spanning afwijkt van de perfecte spanning. Op die manier kan de spanning van de band eventueel nog worden aangepast. In een volgende versie zal de grafiek alleen op het computerscherm van de professional te zien zijn.
@@ -376,22 +396,32 @@ Er zijn verschillende aanpassingen gedaan aan de HTA's om de interacties te opti
 <p align="center">
   <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/4e9e9a46-44ec-46ad-a613-067be31e4635" alt="bovenplaatje met drukmeter">
   <br>
-  <em>Figuur 17: Bovenplaatje met drukmeter erin bevestigd</em>
+  <em>Figuur 21: Bovenplaatje met drukmeter erin bevestigd</em>
 </p>
 Hierdoor is er een subdoel minder voor de gebruiker en dus ook minder stappen waarop de gebruiker fouten kan maken. Doordat de pinnen op de achterkant van het bodemplaatje te lang zijn, moet de gebruiker tijdens het fixeren van de band deze eerst losmaken van het been, het bodemplaatje verwijderen en dan pas de band fixeren. Dit werd geoptimaliseerd door de pinnen korter te maken, zodat de band gefixeerd kan worden terwijl deze nog rond het scheenbeen zit. 
 <p align="center">
   <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/d26503ff-b6f6-4dbf-9638-872c7b857ac6" alt="bodemplaatje">
   <br>
-  <em>Figuur 18: Bodemplaatje met kortere pinnen</em>
+  <em>Figuur 22: Bodemplaatje met kortere pinnen</em>
 </p>
 Deze aanpassing heeft ook een impact op de HTA van het gebruik van de app. Verder werden er nog aanpassingen doorgevoerd in de app, waardoor de gebruiker sneller naar de gewenste scene kan navigeren om de drukmeting uit te voeren. De knoppen 'connect sensor' en 'wearable calibration' zijn vervangen door een 'start drukmeting' knop op het hoofdscherm, wat het eveneens duidelijker maakt voor de gebruiker. Tot slot is ook de aanduiding voor de instructievideo aangepast. Tijdens de gebruikerstesten bleek het niet meteen duidelijk waar deze video te vinden was. Nu wordt deze nadrukkelijk weergegeven op het scherm van de scene voor de drukmeting (link naar eerste versie van de app: https://youtube.com/shorts/jntpQ0VLZdQ?feature=share) (link naar verbeterde versie van de app:).
+<p align="center">
+  <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/c232053c-5818-4144-ad95-a4ef5824c2ff" alt="verbeterde HTA voor drukmeting">
+  <br>
+  <em>Figuur 23: Verbeterde HTA voor het uitvoeren van de drukmeting</em>
+</p>
+<p align="center">
+  <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/b49f5376-1454-4dae-a2ca-617d0e7504b9" alt="verbeterde HTA voor app">
+  <br>
+  <em>Figuur 24: Verbeterde HTA voor het gebruik van de app</em>
+</p>
 
 #### Gebruikerstesten
 Uit de gebruikerstesten bleek opnieuw dat het voor de gebruikers niet duidelijk is hoe de wearable in elkaar zit. Vooral het inbrengen van de band in de sensorhouder blijkt een knelpunt te zijn. Daarom werden er bij de tweede iteratie pijltjes toegevoegd die de montage verduidelijken.
 <p align="center">
   <img src="https://github.com/RUBRIM2000/UCD_SEM1/assets/125655509/c84f7ee7-7a3a-4d1f-a216-645478c32bfd" alt="prototype met pijltjes">
   <br>
-  <em>Figuur 19: Prototype met pijltjes</em>
+  <em>Figuur 15: Prototype met pijltjes</em>
 </p>
 
 Dit prototype is getest bij de laatste gebruiker, die bevestigde dat het de montage duidelijker maakte [^36]. Bij de eerste drie gebruikers werd de eerste versie van de app getest, terwijl de nieuwste versie werd getest bij de laatste gebruiker. Deze laatste kon bevestigen dat dankzij de duidelijkere instructievideo het uitvoeren van de drukmeting geen probleem vormde. Tenslotte bleek dat de feedback van de drukmeting zeer duidelijk was en geen aanpassingen meer nodig had. Reports van deze gebruikerstesten[^33] [^34] [^35] [^36].
